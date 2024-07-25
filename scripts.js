@@ -25,10 +25,6 @@ function generateContent(data) {
         tabContent.innerHTML = `<h2>${capitalizeFirstLetter(tense)} Tense</h2>`;
 
         data[tense].forEach((verb, index) => {
-            const example = document.createElement('p');
-            example.textContent = verb.sentence.replace('____', verb.answer);
-            tabContent.appendChild(example);
-
             const form = document.createElement('form');
             form.innerHTML = `
                 <label for="verb${tense}${index}">${verb.sentence}</label>
