@@ -1,0 +1,4568 @@
+{
+    "present": [
+        {
+            "sentence": "I ____ (to accept) every day.",
+            "answer": "accept"
+        },
+        {
+            "sentence": "He ____ (to accept) to work.",
+            "answer": "accepts"
+        },
+        {
+            "sentence": "I ____ (to allow) every day.",
+            "answer": "allow"
+        },
+        {
+            "sentence": "He ____ (to allow) to work.",
+            "answer": "allows"
+        },
+        {
+            "sentence": "I ____ (to ask) every day.",
+            "answer": "ask"
+        },
+        {
+            "sentence": "He ____ (to ask) to work.",
+            "answer": "asks"
+        },
+        {
+            "sentence": "I ____ (to believe) every day.",
+            "answer": "believe"
+        },
+        {
+            "sentence": "He ____ (to believe) to work.",
+            "answer": "believes"
+        },
+        {
+            "sentence": "I ____ (to borrow) every day.",
+            "answer": "borrow"
+        },
+        {
+            "sentence": "He ____ (to borrow) to work.",
+            "answer": "borrows"
+        },
+        {
+            "sentence": "I ____ (to break) every day.",
+            "answer": "break"
+        },
+        {
+            "sentence": "He ____ (to break) to work.",
+            "answer": "breaks"
+        },
+        {
+            "sentence": "I ____ (to bring) every day.",
+            "answer": "bring"
+        },
+        {
+            "sentence": "He ____ (to bring) to work.",
+            "answer": "brings"
+        },
+        {
+            "sentence": "I ____ (to buy) every day.",
+            "answer": "buy"
+        },
+        {
+            "sentence": "He ____ (to buy) to work.",
+            "answer": "buies"
+        },
+        {
+            "sentence": "I ____ (to cancel) every day.",
+            "answer": "cancel"
+        },
+        {
+            "sentence": "He ____ (to cancel) to work.",
+            "answer": "cancels"
+        },
+        {
+            "sentence": "I ____ (to change) every day.",
+            "answer": "change"
+        },
+        {
+            "sentence": "He ____ (to change) to work.",
+            "answer": "changes"
+        },
+        {
+            "sentence": "I ____ (to clean) every day.",
+            "answer": "clean"
+        },
+        {
+            "sentence": "He ____ (to clean) to work.",
+            "answer": "cleans"
+        },
+        {
+            "sentence": "I ____ (to comb) every day.",
+            "answer": "comb"
+        },
+        {
+            "sentence": "He ____ (to comb) to work.",
+            "answer": "combs"
+        },
+        {
+            "sentence": "I ____ (to complain) every day.",
+            "answer": "complain"
+        },
+        {
+            "sentence": "He ____ (to complain) to work.",
+            "answer": "complains"
+        },
+        {
+            "sentence": "I ____ (to cook) every day.",
+            "answer": "cook"
+        },
+        {
+            "sentence": "He ____ (to cook) to work.",
+            "answer": "cooks"
+        },
+        {
+            "sentence": "I ____ (to cough) every day.",
+            "answer": "cough"
+        },
+        {
+            "sentence": "He ____ (to cough) to work.",
+            "answer": "coughs"
+        },
+        {
+            "sentence": "I ____ (to count) every day.",
+            "answer": "count"
+        },
+        {
+            "sentence": "He ____ (to count) to work.",
+            "answer": "counts"
+        },
+        {
+            "sentence": "I ____ (to cry) every day.",
+            "answer": "cry"
+        },
+        {
+            "sentence": "He ____ (to cry) to work.",
+            "answer": "cries"
+        },
+        {
+            "sentence": "I ____ (to dance) every day.",
+            "answer": "dance"
+        },
+        {
+            "sentence": "He ____ (to dance) to work.",
+            "answer": "dances"
+        },
+        {
+            "sentence": "I ____ (to draw) every day.",
+            "answer": "draw"
+        },
+        {
+            "sentence": "He ____ (to draw) to work.",
+            "answer": "draws"
+        },
+        {
+            "sentence": "I ____ (to drink) every day.",
+            "answer": "drink"
+        },
+        {
+            "sentence": "He ____ (to drink) to work.",
+            "answer": "drinks"
+        },
+        {
+            "sentence": "I ____ (to eat) every day.",
+            "answer": "eat"
+        },
+        {
+            "sentence": "He ____ (to eat) to work.",
+            "answer": "eats"
+        },
+        {
+            "sentence": "I ____ (to explain) every day.",
+            "answer": "explain"
+        },
+        {
+            "sentence": "He ____ (to explain) to work.",
+            "answer": "explains"
+        },
+        {
+            "sentence": "I ____ (to fall) every day.",
+            "answer": "fall"
+        },
+        {
+            "sentence": "He ____ (to fall) to work.",
+            "answer": "falls"
+        },
+        {
+            "sentence": "I ____ (to fill) every day.",
+            "answer": "fill"
+        },
+        {
+            "sentence": "He ____ (to fill) to work.",
+            "answer": "fills"
+        },
+        {
+            "sentence": "I ____ (to find) every day.",
+            "answer": "find"
+        },
+        {
+            "sentence": "He ____ (to find) to work.",
+            "answer": "finds"
+        },
+        {
+            "sentence": "I ____ (to finish) every day.",
+            "answer": "finish"
+        },
+        {
+            "sentence": "He ____ (to finish) to work.",
+            "answer": "finishs"
+        },
+        {
+            "sentence": "I ____ (to fit) every day.",
+            "answer": "fit"
+        },
+        {
+            "sentence": "He ____ (to fit) to work.",
+            "answer": "fits"
+        },
+        {
+            "sentence": "I ____ (to fix) every day.",
+            "answer": "fix"
+        },
+        {
+            "sentence": "He ____ (to fix) to work.",
+            "answer": "fixs"
+        },
+        {
+            "sentence": "I ____ (to fly) every day.",
+            "answer": "fly"
+        },
+        {
+            "sentence": "He ____ (to fly) to work.",
+            "answer": "flies"
+        },
+        {
+            "sentence": "I ____ (to forget) every day.",
+            "answer": "forget"
+        },
+        {
+            "sentence": "He ____ (to forget) to work.",
+            "answer": "forgets"
+        },
+        {
+            "sentence": "I ____ (to give) every day.",
+            "answer": "give"
+        },
+        {
+            "sentence": "He ____ (to give) to work.",
+            "answer": "gives"
+        },
+        {
+            "sentence": "I ____ (to go) every day.",
+            "answer": "go"
+        },
+        {
+            "sentence": "He ____ (to go) to work.",
+            "answer": "goes"
+        },
+        {
+            "sentence": "I ____ (to have) every day.",
+            "answer": "have"
+        },
+        {
+            "sentence": "He ____ (to have) to work.",
+            "answer": "haves"
+        },
+        {
+            "sentence": "I ____ (to hear) every day.",
+            "answer": "hear"
+        },
+        {
+            "sentence": "He ____ (to hear) to work.",
+            "answer": "hears"
+        },
+        {
+            "sentence": "I ____ (to help) every day.",
+            "answer": "help"
+        },
+        {
+            "sentence": "He ____ (to help) to work.",
+            "answer": "helps"
+        },
+        {
+            "sentence": "I ____ (to hope) every day.",
+            "answer": "hope"
+        },
+        {
+            "sentence": "He ____ (to hope) to work.",
+            "answer": "hopes"
+        },
+        {
+            "sentence": "I ____ (to hurt) every day.",
+            "answer": "hurt"
+        },
+        {
+            "sentence": "He ____ (to hurt) to work.",
+            "answer": "hurts"
+        },
+        {
+            "sentence": "I ____ (to jump) every day.",
+            "answer": "jump"
+        },
+        {
+            "sentence": "He ____ (to jump) to work.",
+            "answer": "jumps"
+        },
+        {
+            "sentence": "I ____ (to know) every day.",
+            "answer": "know"
+        },
+        {
+            "sentence": "He ____ (to know) to work.",
+            "answer": "knows"
+        },
+        {
+            "sentence": "I ____ (to learn) every day.",
+            "answer": "learn"
+        },
+        {
+            "sentence": "He ____ (to learn) to work.",
+            "answer": "learns"
+        },
+        {
+            "sentence": "I ____ (to leave) every day.",
+            "answer": "leave"
+        },
+        {
+            "sentence": "He ____ (to leave) to work.",
+            "answer": "leaves"
+        },
+        {
+            "sentence": "I ____ (to listen) every day.",
+            "answer": "listen"
+        },
+        {
+            "sentence": "He ____ (to listen) to work.",
+            "answer": "listens"
+        },
+        {
+            "sentence": "I ____ (to live) every day.",
+            "answer": "live"
+        },
+        {
+            "sentence": "He ____ (to live) to work.",
+            "answer": "lives"
+        },
+        {
+            "sentence": "I ____ (to look) every day.",
+            "answer": "look"
+        },
+        {
+            "sentence": "He ____ (to look) to work.",
+            "answer": "looks"
+        },
+        {
+            "sentence": "I ____ (to lose) every day.",
+            "answer": "lose"
+        },
+        {
+            "sentence": "He ____ (to lose) to work.",
+            "answer": "loses"
+        },
+        {
+            "sentence": "I ____ (to make) every day.",
+            "answer": "make"
+        },
+        {
+            "sentence": "He ____ (to make) to work.",
+            "answer": "makes"
+        },
+        {
+            "sentence": "I ____ (to need) every day.",
+            "answer": "need"
+        },
+        {
+            "sentence": "He ____ (to need) to work.",
+            "answer": "needs"
+        },
+        {
+            "sentence": "I ____ (to open) every day.",
+            "answer": "open"
+        },
+        {
+            "sentence": "He ____ (to open) to work.",
+            "answer": "opens"
+        },
+        {
+            "sentence": "I ____ (to close) every day.",
+            "answer": "close"
+        },
+        {
+            "sentence": "He ____ (to close) to work.",
+            "answer": "closes"
+        },
+        {
+            "sentence": "I ____ (to organize) every day.",
+            "answer": "organize"
+        },
+        {
+            "sentence": "He ____ (to organize) to work.",
+            "answer": "organizes"
+        },
+        {
+            "sentence": "I ____ (to pay) every day.",
+            "answer": "pay"
+        },
+        {
+            "sentence": "He ____ (to pay) to work.",
+            "answer": "paies"
+        },
+        {
+            "sentence": "I ____ (to play) every day.",
+            "answer": "play"
+        },
+        {
+            "sentence": "He ____ (to play) to work.",
+            "answer": "plays"
+        },
+        {
+            "sentence": "I ____ (to put) every day.",
+            "answer": "put"
+        },
+        {
+            "sentence": "He ____ (to put) to work.",
+            "answer": "puts"
+        },
+        {
+            "sentence": "I ____ (to read) every day.",
+            "answer": "read"
+        },
+        {
+            "sentence": "He ____ (to read) to work.",
+            "answer": "reads"
+        },
+        {
+            "sentence": "I ____ (to reply) every day.",
+            "answer": "reply"
+        },
+        {
+            "sentence": "He ____ (to reply) to work.",
+            "answer": "replies"
+        },
+        {
+            "sentence": "I ____ (to run) every day.",
+            "answer": "run"
+        },
+        {
+            "sentence": "He ____ (to run) to work.",
+            "answer": "runs"
+        },
+        {
+            "sentence": "I ____ (to say) every day.",
+            "answer": "say"
+        },
+        {
+            "sentence": "He ____ (to say) to work.",
+            "answer": "saies"
+        },
+        {
+            "sentence": "I ____ (to see) every day.",
+            "answer": "see"
+        },
+        {
+            "sentence": "He ____ (to see) to work.",
+            "answer": "sees"
+        },
+        {
+            "sentence": "I ____ (to sell) every day.",
+            "answer": "sell"
+        },
+        {
+            "sentence": "He ____ (to sell) to work.",
+            "answer": "sells"
+        },
+        {
+            "sentence": "I ____ (to send) every day.",
+            "answer": "send"
+        },
+        {
+            "sentence": "He ____ (to send) to work.",
+            "answer": "sends"
+        },
+        {
+            "sentence": "I ____ (to sign) every day.",
+            "answer": "sign"
+        },
+        {
+            "sentence": "He ____ (to sign) to work.",
+            "answer": "signs"
+        },
+        {
+            "sentence": "I ____ (to sing) every day.",
+            "answer": "sing"
+        },
+        {
+            "sentence": "He ____ (to sing) to work.",
+            "answer": "sings"
+        },
+        {
+            "sentence": "I ____ (to sit) every day.",
+            "answer": "sit"
+        },
+        {
+            "sentence": "He ____ (to sit) to work.",
+            "answer": "sits"
+        },
+        {
+            "sentence": "I ____ (to sleep) every day.",
+            "answer": "sleep"
+        },
+        {
+            "sentence": "He ____ (to sleep) to work.",
+            "answer": "sleeps"
+        },
+        {
+            "sentence": "I ____ (to smoke) every day.",
+            "answer": "smoke"
+        },
+        {
+            "sentence": "He ____ (to smoke) to work.",
+            "answer": "smokes"
+        },
+        {
+            "sentence": "I ____ (to speak) every day.",
+            "answer": "speak"
+        },
+        {
+            "sentence": "He ____ (to speak) to work.",
+            "answer": "speaks"
+        },
+        {
+            "sentence": "I ____ (to spell) every day.",
+            "answer": "spell"
+        },
+        {
+            "sentence": "He ____ (to spell) to work.",
+            "answer": "spells"
+        },
+        {
+            "sentence": "I ____ (to spend) every day.",
+            "answer": "spend"
+        },
+        {
+            "sentence": "He ____ (to spend) to work.",
+            "answer": "spends"
+        },
+        {
+            "sentence": "I ____ (to stand) every day.",
+            "answer": "stand"
+        },
+        {
+            "sentence": "He ____ (to stand) to work.",
+            "answer": "stands"
+        },
+        {
+            "sentence": "I ____ (to start) every day.",
+            "answer": "start"
+        },
+        {
+            "sentence": "He ____ (to start) to work.",
+            "answer": "starts"
+        },
+        {
+            "sentence": "I ____ (to study) every day.",
+            "answer": "study"
+        },
+        {
+            "sentence": "He ____ (to study) to work.",
+            "answer": "studies"
+        },
+        {
+            "sentence": "I ____ (to succeed) every day.",
+            "answer": "succeed"
+        },
+        {
+            "sentence": "He ____ (to succeed) to work.",
+            "answer": "succeeds"
+        },
+        {
+            "sentence": "I ____ (to swim) every day.",
+            "answer": "swim"
+        },
+        {
+            "sentence": "He ____ (to swim) to work.",
+            "answer": "swims"
+        },
+        {
+            "sentence": "I ____ (to take) every day.",
+            "answer": "take"
+        },
+        {
+            "sentence": "He ____ (to take) to work.",
+            "answer": "takes"
+        },
+        {
+            "sentence": "I ____ (to talk) every day.",
+            "answer": "talk"
+        },
+        {
+            "sentence": "He ____ (to talk) to work.",
+            "answer": "talks"
+        },
+        {
+            "sentence": "I ____ (to teach) every day.",
+            "answer": "teach"
+        },
+        {
+            "sentence": "He ____ (to teach) to work.",
+            "answer": "teachs"
+        },
+        {
+            "sentence": "I ____ (to tell) every day.",
+            "answer": "tell"
+        },
+        {
+            "sentence": "He ____ (to tell) to work.",
+            "answer": "tells"
+        },
+        {
+            "sentence": "I ____ (to think) every day.",
+            "answer": "think"
+        },
+        {
+            "sentence": "He ____ (to think) to work.",
+            "answer": "thinks"
+        },
+        {
+            "sentence": "I ____ (to translate) every day.",
+            "answer": "translate"
+        },
+        {
+            "sentence": "He ____ (to translate) to work.",
+            "answer": "translates"
+        },
+        {
+            "sentence": "I ____ (to travel) every day.",
+            "answer": "travel"
+        },
+        {
+            "sentence": "He ____ (to travel) to work.",
+            "answer": "travels"
+        },
+        {
+            "sentence": "I ____ (to try) every day.",
+            "answer": "try"
+        },
+        {
+            "sentence": "He ____ (to try) to work.",
+            "answer": "tries"
+        },
+        {
+            "sentence": "I ____ (to turn) every day.",
+            "answer": "turn"
+        },
+        {
+            "sentence": "He ____ (to turn) to work.",
+            "answer": "turns"
+        },
+        {
+            "sentence": "I ____ (to type) every day.",
+            "answer": "type"
+        },
+        {
+            "sentence": "He ____ (to type) to work.",
+            "answer": "types"
+        },
+        {
+            "sentence": "I ____ (to understand) every day.",
+            "answer": "understand"
+        },
+        {
+            "sentence": "He ____ (to understand) to work.",
+            "answer": "understands"
+        },
+        {
+            "sentence": "I ____ (to use) every day.",
+            "answer": "use"
+        },
+        {
+            "sentence": "He ____ (to use) to work.",
+            "answer": "uses"
+        },
+        {
+            "sentence": "I ____ (to wait) every day.",
+            "answer": "wait"
+        },
+        {
+            "sentence": "He ____ (to wait) to work.",
+            "answer": "waits"
+        },
+        {
+            "sentence": "I ____ (to wake) every day.",
+            "answer": "wake"
+        },
+        {
+            "sentence": "He ____ (to wake) to work.",
+            "answer": "wakes"
+        },
+        {
+            "sentence": "I ____ (to walk) every day.",
+            "answer": "walk"
+        },
+        {
+            "sentence": "He ____ (to walk) to work.",
+            "answer": "walks"
+        },
+        {
+            "sentence": "I ____ (to want) every day.",
+            "answer": "want"
+        },
+        {
+            "sentence": "He ____ (to want) to work.",
+            "answer": "wants"
+        },
+        {
+            "sentence": "I ____ (to watch) every day.",
+            "answer": "watch"
+        },
+        {
+            "sentence": "He ____ (to watch) to work.",
+            "answer": "watchs"
+        },
+        {
+            "sentence": "I ____ (to work) every day.",
+            "answer": "work"
+        },
+        {
+            "sentence": "He ____ (to work) to work.",
+            "answer": "works"
+        },
+        {
+            "sentence": "I ____ (to worry) every day.",
+            "answer": "worry"
+        },
+        {
+            "sentence": "He ____ (to worry) to work.",
+            "answer": "worries"
+        },
+        {
+            "sentence": "I ____ (to write) every day.",
+            "answer": "write"
+        },
+        {
+            "sentence": "He ____ (to write) to work.",
+            "answer": "writes"
+        },
+        {
+            "sentence": "I ____ (to add) every day.",
+            "answer": "add"
+        },
+        {
+            "sentence": "He ____ (to add) to work.",
+            "answer": "adds"
+        },
+        {
+            "sentence": "I ____ (to admire) every day.",
+            "answer": "admire"
+        },
+        {
+            "sentence": "He ____ (to admire) to work.",
+            "answer": "admires"
+        },
+        {
+            "sentence": "I ____ (to admit) every day.",
+            "answer": "admit"
+        },
+        {
+            "sentence": "He ____ (to admit) to work.",
+            "answer": "admits"
+        },
+        {
+            "sentence": "I ____ (to advise) every day.",
+            "answer": "advise"
+        },
+        {
+            "sentence": "He ____ (to advise) to work.",
+            "answer": "advises"
+        },
+        {
+            "sentence": "I ____ (to afford) every day.",
+            "answer": "afford"
+        },
+        {
+            "sentence": "He ____ (to afford) to work.",
+            "answer": "affords"
+        },
+        {
+            "sentence": "I ____ (to agree) every day.",
+            "answer": "agree"
+        },
+        {
+            "sentence": "He ____ (to agree) to work.",
+            "answer": "agrees"
+        },
+        {
+            "sentence": "I ____ (to alert) every day.",
+            "answer": "alert"
+        },
+        {
+            "sentence": "He ____ (to alert) to work.",
+            "answer": "alerts"
+        },
+        {
+            "sentence": "I ____ (to amuse) every day.",
+            "answer": "amuse"
+        },
+        {
+            "sentence": "He ____ (to amuse) to work.",
+            "answer": "amuses"
+        },
+        {
+            "sentence": "I ____ (to analyse) every day.",
+            "answer": "analyse"
+        },
+        {
+            "sentence": "He ____ (to analyse) to work.",
+            "answer": "analyses"
+        },
+        {
+            "sentence": "I ____ (to announce) every day.",
+            "answer": "announce"
+        },
+        {
+            "sentence": "He ____ (to announce) to work.",
+            "answer": "announces"
+        },
+        {
+            "sentence": "I ____ (to annoy) every day.",
+            "answer": "annoy"
+        },
+        {
+            "sentence": "He ____ (to annoy) to work.",
+            "answer": "annoies"
+        },
+        {
+            "sentence": "I ____ (to answer) every day.",
+            "answer": "answer"
+        },
+        {
+            "sentence": "He ____ (to answer) to work.",
+            "answer": "answers"
+        },
+        {
+            "sentence": "I ____ (to apologize) every day.",
+            "answer": "apologize"
+        },
+        {
+            "sentence": "He ____ (to apologize) to work.",
+            "answer": "apologizes"
+        },
+        {
+            "sentence": "I ____ (to appear) every day.",
+            "answer": "appear"
+        },
+        {
+            "sentence": "He ____ (to appear) to work.",
+            "answer": "appears"
+        },
+        {
+            "sentence": "I ____ (to applaud) every day.",
+            "answer": "applaud"
+        },
+        {
+            "sentence": "He ____ (to applaud) to work.",
+            "answer": "applauds"
+        },
+        {
+            "sentence": "I ____ (to appreciate) every day.",
+            "answer": "appreciate"
+        },
+        {
+            "sentence": "He ____ (to appreciate) to work.",
+            "answer": "appreciates"
+        },
+        {
+            "sentence": "I ____ (to approve) every day.",
+            "answer": "approve"
+        },
+        {
+            "sentence": "He ____ (to approve) to work.",
+            "answer": "approves"
+        },
+        {
+            "sentence": "I ____ (to argue) every day.",
+            "answer": "argue"
+        },
+        {
+            "sentence": "He ____ (to argue) to work.",
+            "answer": "argues"
+        },
+        {
+            "sentence": "I ____ (to arrange) every day.",
+            "answer": "arrange"
+        },
+        {
+            "sentence": "He ____ (to arrange) to work.",
+            "answer": "arranges"
+        },
+        {
+            "sentence": "I ____ (to arrest) every day.",
+            "answer": "arrest"
+        },
+        {
+            "sentence": "He ____ (to arrest) to work.",
+            "answer": "arrests"
+        },
+        {
+            "sentence": "I ____ (to arrive) every day.",
+            "answer": "arrive"
+        },
+        {
+            "sentence": "He ____ (to arrive) to work.",
+            "answer": "arrives"
+        },
+        {
+            "sentence": "I ____ (to attach) every day.",
+            "answer": "attach"
+        },
+        {
+            "sentence": "He ____ (to attach) to work.",
+            "answer": "attachs"
+        },
+        {
+            "sentence": "I ____ (to attack) every day.",
+            "answer": "attack"
+        },
+        {
+            "sentence": "He ____ (to attack) to work.",
+            "answer": "attacks"
+        },
+        {
+            "sentence": "I ____ (to attempt) every day.",
+            "answer": "attempt"
+        },
+        {
+            "sentence": "He ____ (to attempt) to work.",
+            "answer": "attempts"
+        },
+        {
+            "sentence": "I ____ (to attend) every day.",
+            "answer": "attend"
+        },
+        {
+            "sentence": "He ____ (to attend) to work.",
+            "answer": "attends"
+        },
+        {
+            "sentence": "I ____ (to attract) every day.",
+            "answer": "attract"
+        },
+        {
+            "sentence": "He ____ (to attract) to work.",
+            "answer": "attracts"
+        },
+        {
+            "sentence": "I ____ (to avoid) every day.",
+            "answer": "avoid"
+        },
+        {
+            "sentence": "He ____ (to avoid) to work.",
+            "answer": "avoids"
+        },
+        {
+            "sentence": "I ____ (to bake) every day.",
+            "answer": "bake"
+        },
+        {
+            "sentence": "He ____ (to bake) to work.",
+            "answer": "bakes"
+        },
+        {
+            "sentence": "I ____ (to balance) every day.",
+            "answer": "balance"
+        },
+        {
+            "sentence": "He ____ (to balance) to work.",
+            "answer": "balances"
+        },
+        {
+            "sentence": "I ____ (to ban) every day.",
+            "answer": "ban"
+        },
+        {
+            "sentence": "He ____ (to ban) to work.",
+            "answer": "bans"
+        },
+        {
+            "sentence": "I ____ (to bat) every day.",
+            "answer": "bat"
+        },
+        {
+            "sentence": "He ____ (to bat) to work.",
+            "answer": "bats"
+        },
+        {
+            "sentence": "I ____ (to bathe) every day.",
+            "answer": "bathe"
+        },
+        {
+            "sentence": "He ____ (to bathe) to work.",
+            "answer": "bathes"
+        },
+        {
+            "sentence": "I ____ (to battle) every day.",
+            "answer": "battle"
+        },
+        {
+            "sentence": "He ____ (to battle) to work.",
+            "answer": "battles"
+        },
+        {
+            "sentence": "I ____ (to beam) every day.",
+            "answer": "beam"
+        },
+        {
+            "sentence": "He ____ (to beam) to work.",
+            "answer": "beams"
+        },
+        {
+            "sentence": "I ____ (to beg) every day.",
+            "answer": "beg"
+        },
+        {
+            "sentence": "He ____ (to beg) to work.",
+            "answer": "begs"
+        },
+        {
+            "sentence": "I ____ (to behave) every day.",
+            "answer": "behave"
+        },
+        {
+            "sentence": "He ____ (to behave) to work.",
+            "answer": "behaves"
+        },
+        {
+            "sentence": "I ____ (to belong) every day.",
+            "answer": "belong"
+        },
+        {
+            "sentence": "He ____ (to belong) to work.",
+            "answer": "belongs"
+        },
+        {
+            "sentence": "I ____ (to bleach) every day.",
+            "answer": "bleach"
+        },
+        {
+            "sentence": "He ____ (to bleach) to work.",
+            "answer": "bleachs"
+        },
+        {
+            "sentence": "I ____ (to bless) every day.",
+            "answer": "bless"
+        },
+        {
+            "sentence": "He ____ (to bless) to work.",
+            "answer": "blesss"
+        },
+        {
+            "sentence": "I ____ (to blind) every day.",
+            "answer": "blind"
+        },
+        {
+            "sentence": "He ____ (to blind) to work.",
+            "answer": "blinds"
+        },
+        {
+            "sentence": "I ____ (to blink) every day.",
+            "answer": "blink"
+        },
+        {
+            "sentence": "He ____ (to blink) to work.",
+            "answer": "blinks"
+        },
+        {
+            "sentence": "I ____ (to blot) every day.",
+            "answer": "blot"
+        },
+        {
+            "sentence": "He ____ (to blot) to work.",
+            "answer": "blots"
+        },
+        {
+            "sentence": "I ____ (to blow) every day.",
+            "answer": "blow"
+        },
+        {
+            "sentence": "He ____ (to blow) to work.",
+            "answer": "blows"
+        },
+        {
+            "sentence": "I ____ (to blush) every day.",
+            "answer": "blush"
+        },
+        {
+            "sentence": "He ____ (to blush) to work.",
+            "answer": "blushs"
+        },
+        {
+            "sentence": "I ____ (to boast) every day.",
+            "answer": "boast"
+        },
+        {
+            "sentence": "He ____ (to boast) to work.",
+            "answer": "boasts"
+        },
+        {
+            "sentence": "I ____ (to boil) every day.",
+            "answer": "boil"
+        },
+        {
+            "sentence": "He ____ (to boil) to work.",
+            "answer": "boils"
+        },
+        {
+            "sentence": "I ____ (to bolt) every day.",
+            "answer": "bolt"
+        },
+        {
+            "sentence": "He ____ (to bolt) to work.",
+            "answer": "bolts"
+        },
+        {
+            "sentence": "I ____ (to bomb) every day.",
+            "answer": "bomb"
+        },
+        {
+            "sentence": "He ____ (to bomb) to work.",
+            "answer": "bombs"
+        },
+        {
+            "sentence": "I ____ (to book) every day.",
+            "answer": "book"
+        },
+        {
+            "sentence": "He ____ (to book) to work.",
+            "answer": "books"
+        },
+        {
+            "sentence": "I ____ (to bore) every day.",
+            "answer": "bore"
+        },
+        {
+            "sentence": "He ____ (to bore) to work.",
+            "answer": "bores"
+        },
+        {
+            "sentence": "I ____ (to borrow) every day.",
+            "answer": "borrow"
+        },
+        {
+            "sentence": "He ____ (to borrow) to work.",
+            "answer": "borrows"
+        },
+        {
+            "sentence": "I ____ (to bounce) every day.",
+            "answer": "bounce"
+        },
+        {
+            "sentence": "He ____ (to bounce) to work.",
+            "answer": "bounces"
+        },
+        {
+            "sentence": "I ____ (to bow) every day.",
+            "answer": "bow"
+        },
+        {
+            "sentence": "He ____ (to bow) to work.",
+            "answer": "bows"
+        },
+        {
+            "sentence": "I ____ (to box) every day.",
+            "answer": "box"
+        },
+        {
+            "sentence": "He ____ (to box) to work.",
+            "answer": "boxs"
+        },
+        {
+            "sentence": "I ____ (to brake) every day.",
+            "answer": "brake"
+        },
+        {
+            "sentence": "He ____ (to brake) to work.",
+            "answer": "brakes"
+        },
+        {
+            "sentence": "I ____ (to branch) every day.",
+            "answer": "branch"
+        },
+        {
+            "sentence": "He ____ (to branch) to work.",
+            "answer": "branchs"
+        },
+        {
+            "sentence": "I ____ (to breathe) every day.",
+            "answer": "breathe"
+        },
+        {
+            "sentence": "He ____ (to breathe) to work.",
+            "answer": "breathes"
+        },
+        {
+            "sentence": "I ____ (to bruise) every day.",
+            "answer": "bruise"
+        },
+        {
+            "sentence": "He ____ (to bruise) to work.",
+            "answer": "bruises"
+        },
+        {
+            "sentence": "I ____ (to brush) every day.",
+            "answer": "brush"
+        },
+        {
+            "sentence": "He ____ (to brush) to work.",
+            "answer": "brushs"
+        },
+        {
+            "sentence": "I ____ (to bubble) every day.",
+            "answer": "bubble"
+        },
+        {
+            "sentence": "He ____ (to bubble) to work.",
+            "answer": "bubbles"
+        },
+        {
+            "sentence": "I ____ (to bump) every day.",
+            "answer": "bump"
+        },
+        {
+            "sentence": "He ____ (to bump) to work.",
+            "answer": "bumps"
+        },
+        {
+            "sentence": "I ____ (to burn) every day.",
+            "answer": "burn"
+        },
+        {
+            "sentence": "He ____ (to burn) to work.",
+            "answer": "burns"
+        },
+        {
+            "sentence": "I ____ (to bury) every day.",
+            "answer": "bury"
+        },
+        {
+            "sentence": "He ____ (to bury) to work.",
+            "answer": "buries"
+        },
+        {
+            "sentence": "I ____ (to buzz) every day.",
+            "answer": "buzz"
+        },
+        {
+            "sentence": "He ____ (to buzz) to work.",
+            "answer": "buzzs"
+        },
+        {
+            "sentence": "I ____ (to calculate) every day.",
+            "answer": "calculate"
+        },
+        {
+            "sentence": "He ____ (to calculate) to work.",
+            "answer": "calculates"
+        },
+        {
+            "sentence": "I ____ (to call) every day.",
+            "answer": "call"
+        },
+        {
+            "sentence": "He ____ (to call) to work.",
+            "answer": "calls"
+        },
+        {
+            "sentence": "I ____ (to camp) every day.",
+            "answer": "camp"
+        },
+        {
+            "sentence": "He ____ (to camp) to work.",
+            "answer": "camps"
+        },
+        {
+            "sentence": "I ____ (to care) every day.",
+            "answer": "care"
+        },
+        {
+            "sentence": "He ____ (to care) to work.",
+            "answer": "cares"
+        },
+        {
+            "sentence": "I ____ (to carry) every day.",
+            "answer": "carry"
+        },
+        {
+            "sentence": "He ____ (to carry) to work.",
+            "answer": "carries"
+        },
+        {
+            "sentence": "I ____ (to carve) every day.",
+            "answer": "carve"
+        },
+        {
+            "sentence": "He ____ (to carve) to work.",
+            "answer": "carves"
+        },
+        {
+            "sentence": "I ____ (to cause) every day.",
+            "answer": "cause"
+        },
+        {
+            "sentence": "He ____ (to cause) to work.",
+            "answer": "causes"
+        },
+        {
+            "sentence": "I ____ (to challenge) every day.",
+            "answer": "challenge"
+        },
+        {
+            "sentence": "He ____ (to challenge) to work.",
+            "answer": "challenges"
+        },
+        {
+            "sentence": "I ____ (to change) every day.",
+            "answer": "change"
+        },
+        {
+            "sentence": "He ____ (to change) to work.",
+            "answer": "changes"
+        },
+        {
+            "sentence": "I ____ (to charge) every day.",
+            "answer": "charge"
+        },
+        {
+            "sentence": "He ____ (to charge) to work.",
+            "answer": "charges"
+        },
+        {
+            "sentence": "I ____ (to chase) every day.",
+            "answer": "chase"
+        },
+        {
+            "sentence": "He ____ (to chase) to work.",
+            "answer": "chases"
+        },
+        {
+            "sentence": "I ____ (to cheat) every day.",
+            "answer": "cheat"
+        },
+        {
+            "sentence": "He ____ (to cheat) to work.",
+            "answer": "cheats"
+        },
+        {
+            "sentence": "I ____ (to check) every day.",
+            "answer": "check"
+        },
+        {
+            "sentence": "He ____ (to check) to work.",
+            "answer": "checks"
+        },
+        {
+            "sentence": "I ____ (to cheer) every day.",
+            "answer": "cheer"
+        },
+        {
+            "sentence": "He ____ (to cheer) to work.",
+            "answer": "cheers"
+        },
+        {
+            "sentence": "I ____ (to chew) every day.",
+            "answer": "chew"
+        },
+        {
+            "sentence": "He ____ (to chew) to work.",
+            "answer": "chews"
+        },
+        {
+            "sentence": "I ____ (to choke) every day.",
+            "answer": "choke"
+        },
+        {
+            "sentence": "He ____ (to choke) to work.",
+            "answer": "chokes"
+        },
+        {
+            "sentence": "I ____ (to chop) every day.",
+            "answer": "chop"
+        },
+        {
+            "sentence": "He ____ (to chop) to work.",
+            "answer": "chops"
+        },
+        {
+            "sentence": "I ____ (to claim) every day.",
+            "answer": "claim"
+        },
+        {
+            "sentence": "He ____ (to claim) to work.",
+            "answer": "claims"
+        },
+        {
+            "sentence": "I ____ (to clap) every day.",
+            "answer": "clap"
+        },
+        {
+            "sentence": "He ____ (to clap) to work.",
+            "answer": "claps"
+        },
+        {
+            "sentence": "I ____ (to clean) every day.",
+            "answer": "clean"
+        },
+        {
+            "sentence": "He ____ (to clean) to work.",
+            "answer": "cleans"
+        },
+        {
+            "sentence": "I ____ (to clear) every day.",
+            "answer": "clear"
+        },
+        {
+            "sentence": "He ____ (to clear) to work.",
+            "answer": "clears"
+        },
+        {
+            "sentence": "I ____ (to clip) every day.",
+            "answer": "clip"
+        },
+        {
+            "sentence": "He ____ (to clip) to work.",
+            "answer": "clips"
+        },
+        {
+            "sentence": "I ____ (to close) every day.",
+            "answer": "close"
+        },
+        {
+            "sentence": "He ____ (to close) to work.",
+            "answer": "closes"
+        },
+        {
+            "sentence": "I ____ (to coach) every day.",
+            "answer": "coach"
+        },
+        {
+            "sentence": "He ____ (to coach) to work.",
+            "answer": "coachs"
+        },
+        {
+            "sentence": "I ____ (to coil) every day.",
+            "answer": "coil"
+        },
+        {
+            "sentence": "He ____ (to coil) to work.",
+            "answer": "coils"
+        },
+        {
+            "sentence": "I ____ (to collect) every day.",
+            "answer": "collect"
+        },
+        {
+            "sentence": "He ____ (to collect) to work.",
+            "answer": "collects"
+        },
+        {
+            "sentence": "I ____ (to colour) every day.",
+            "answer": "colour"
+        },
+        {
+            "sentence": "He ____ (to colour) to work.",
+            "answer": "colours"
+        },
+        {
+            "sentence": "I ____ (to comb) every day.",
+            "answer": "comb"
+        },
+        {
+            "sentence": "He ____ (to comb) to work.",
+            "answer": "combs"
+        },
+        {
+            "sentence": "I ____ (to command) every day.",
+            "answer": "command"
+        },
+        {
+            "sentence": "He ____ (to command) to work.",
+            "answer": "commands"
+        },
+        {
+            "sentence": "I ____ (to communicate) every day.",
+            "answer": "communicate"
+        },
+        {
+            "sentence": "He ____ (to communicate) to work.",
+            "answer": "communicates"
+        },
+        {
+            "sentence": "I ____ (to compare) every day.",
+            "answer": "compare"
+        },
+        {
+            "sentence": "He ____ (to compare) to work.",
+            "answer": "compares"
+        },
+        {
+            "sentence": "I ____ (to compete) every day.",
+            "answer": "compete"
+        },
+        {
+            "sentence": "He ____ (to compete) to work.",
+            "answer": "competes"
+        },
+        {
+            "sentence": "I ____ (to complain) every day.",
+            "answer": "complain"
+        },
+        {
+            "sentence": "He ____ (to complain) to work.",
+            "answer": "complains"
+        }
+    ],
+    "past": [
+        {
+            "sentence": "I ____ (to accept) yesterday.",
+            "answer": "accepted"
+        },
+        {
+            "sentence": "He ____ (to accept) to work last Monday.",
+            "answer": "accepted"
+        },
+        {
+            "sentence": "I ____ (to allow) yesterday.",
+            "answer": "allowed"
+        },
+        {
+            "sentence": "He ____ (to allow) to work last Monday.",
+            "answer": "allowed"
+        },
+        {
+            "sentence": "I ____ (to ask) yesterday.",
+            "answer": "asked"
+        },
+        {
+            "sentence": "He ____ (to ask) to work last Monday.",
+            "answer": "asked"
+        },
+        {
+            "sentence": "I ____ (to believe) yesterday.",
+            "answer": "believed"
+        },
+        {
+            "sentence": "He ____ (to believe) to work last Monday.",
+            "answer": "believed"
+        },
+        {
+            "sentence": "I ____ (to borrow) yesterday.",
+            "answer": "borrowed"
+        },
+        {
+            "sentence": "He ____ (to borrow) to work last Monday.",
+            "answer": "borrowed"
+        },
+        {
+            "sentence": "I ____ (to break) yesterday.",
+            "answer": "breaked"
+        },
+        {
+            "sentence": "He ____ (to break) to work last Monday.",
+            "answer": "breaked"
+        },
+        {
+            "sentence": "I ____ (to bring) yesterday.",
+            "answer": "bringed"
+        },
+        {
+            "sentence": "He ____ (to bring) to work last Monday.",
+            "answer": "bringed"
+        },
+        {
+            "sentence": "I ____ (to buy) yesterday.",
+            "answer": "buyed"
+        },
+        {
+            "sentence": "He ____ (to buy) to work last Monday.",
+            "answer": "buyed"
+        },
+        {
+            "sentence": "I ____ (to cancel) yesterday.",
+            "answer": "canceled"
+        },
+        {
+            "sentence": "He ____ (to cancel) to work last Monday.",
+            "answer": "canceled"
+        },
+        {
+            "sentence": "I ____ (to change) yesterday.",
+            "answer": "changed"
+        },
+        {
+            "sentence": "He ____ (to change) to work last Monday.",
+            "answer": "changed"
+        },
+        {
+            "sentence": "I ____ (to clean) yesterday.",
+            "answer": "cleaned"
+        },
+        {
+            "sentence": "He ____ (to clean) to work last Monday.",
+            "answer": "cleaned"
+        },
+        {
+            "sentence": "I ____ (to comb) yesterday.",
+            "answer": "combed"
+        },
+        {
+            "sentence": "He ____ (to comb) to work last Monday.",
+            "answer": "combed"
+        },
+        {
+            "sentence": "I ____ (to complain) yesterday.",
+            "answer": "complained"
+        },
+        {
+            "sentence": "He ____ (to complain) to work last Monday.",
+            "answer": "complained"
+        },
+        {
+            "sentence": "I ____ (to cook) yesterday.",
+            "answer": "cooked"
+        },
+        {
+            "sentence": "He ____ (to cook) to work last Monday.",
+            "answer": "cooked"
+        },
+        {
+            "sentence": "I ____ (to cough) yesterday.",
+            "answer": "coughed"
+        },
+        {
+            "sentence": "He ____ (to cough) to work last Monday.",
+            "answer": "coughed"
+        },
+        {
+            "sentence": "I ____ (to count) yesterday.",
+            "answer": "counted"
+        },
+        {
+            "sentence": "He ____ (to count) to work last Monday.",
+            "answer": "counted"
+        },
+        {
+            "sentence": "I ____ (to cry) yesterday.",
+            "answer": "cryed"
+        },
+        {
+            "sentence": "He ____ (to cry) to work last Monday.",
+            "answer": "cryed"
+        },
+        {
+            "sentence": "I ____ (to dance) yesterday.",
+            "answer": "danced"
+        },
+        {
+            "sentence": "He ____ (to dance) to work last Monday.",
+            "answer": "danced"
+        },
+        {
+            "sentence": "I ____ (to draw) yesterday.",
+            "answer": "drawed"
+        },
+        {
+            "sentence": "He ____ (to draw) to work last Monday.",
+            "answer": "drawed"
+        },
+        {
+            "sentence": "I ____ (to drink) yesterday.",
+            "answer": "drinked"
+        },
+        {
+            "sentence": "He ____ (to drink) to work last Monday.",
+            "answer": "drinked"
+        },
+        {
+            "sentence": "I ____ (to eat) yesterday.",
+            "answer": "eated"
+        },
+        {
+            "sentence": "He ____ (to eat) to work last Monday.",
+            "answer": "eated"
+        },
+        {
+            "sentence": "I ____ (to explain) yesterday.",
+            "answer": "explained"
+        },
+        {
+            "sentence": "He ____ (to explain) to work last Monday.",
+            "answer": "explained"
+        },
+        {
+            "sentence": "I ____ (to fall) yesterday.",
+            "answer": "falled"
+        },
+        {
+            "sentence": "He ____ (to fall) to work last Monday.",
+            "answer": "falled"
+        },
+        {
+            "sentence": "I ____ (to fill) yesterday.",
+            "answer": "filled"
+        },
+        {
+            "sentence": "He ____ (to fill) to work last Monday.",
+            "answer": "filled"
+        },
+        {
+            "sentence": "I ____ (to find) yesterday.",
+            "answer": "finded"
+        },
+        {
+            "sentence": "He ____ (to find) to work last Monday.",
+            "answer": "finded"
+        },
+        {
+            "sentence": "I ____ (to finish) yesterday.",
+            "answer": "finished"
+        },
+        {
+            "sentence": "He ____ (to finish) to work last Monday.",
+            "answer": "finished"
+        },
+        {
+            "sentence": "I ____ (to fit) yesterday.",
+            "answer": "fited"
+        },
+        {
+            "sentence": "He ____ (to fit) to work last Monday.",
+            "answer": "fited"
+        },
+        {
+            "sentence": "I ____ (to fix) yesterday.",
+            "answer": "fixed"
+        },
+        {
+            "sentence": "He ____ (to fix) to work last Monday.",
+            "answer": "fixed"
+        },
+        {
+            "sentence": "I ____ (to fly) yesterday.",
+            "answer": "flyed"
+        },
+        {
+            "sentence": "He ____ (to fly) to work last Monday.",
+            "answer": "flyed"
+        },
+        {
+            "sentence": "I ____ (to forget) yesterday.",
+            "answer": "forgeted"
+        },
+        {
+            "sentence": "He ____ (to forget) to work last Monday.",
+            "answer": "forgeted"
+        },
+        {
+            "sentence": "I ____ (to give) yesterday.",
+            "answer": "gived"
+        },
+        {
+            "sentence": "He ____ (to give) to work last Monday.",
+            "answer": "gived"
+        },
+        {
+            "sentence": "I ____ (to go) yesterday.",
+            "answer": "went"
+        },
+        {
+            "sentence": "He ____ (to go) to work last Monday.",
+            "answer": "went"
+        },
+        {
+            "sentence": "I ____ (to have) yesterday.",
+            "answer": "had"
+        },
+        {
+            "sentence": "He ____ (to have) to work last Monday.",
+            "answer": "had"
+        },
+        {
+            "sentence": "I ____ (to hear) yesterday.",
+            "answer": "heared"
+        },
+        {
+            "sentence": "He ____ (to hear) to work last Monday.",
+            "answer": "heared"
+        },
+        {
+            "sentence": "I ____ (to help) yesterday.",
+            "answer": "helped"
+        },
+        {
+            "sentence": "He ____ (to help) to work last Monday.",
+            "answer": "helped"
+        },
+        {
+            "sentence": "I ____ (to hope) yesterday.",
+            "answer": "hoped"
+        },
+        {
+            "sentence": "He ____ (to hope) to work last Monday.",
+            "answer": "hoped"
+        },
+        {
+            "sentence": "I ____ (to hurt) yesterday.",
+            "answer": "hurted"
+        },
+        {
+            "sentence": "He ____ (to hurt) to work last Monday.",
+            "answer": "hurted"
+        },
+        {
+            "sentence": "I ____ (to jump) yesterday.",
+            "answer": "jumped"
+        },
+        {
+            "sentence": "He ____ (to jump) to work last Monday.",
+            "answer": "jumped"
+        },
+        {
+            "sentence": "I ____ (to know) yesterday.",
+            "answer": "knowed"
+        },
+        {
+            "sentence": "He ____ (to know) to work last Monday.",
+            "answer": "knowed"
+        },
+        {
+            "sentence": "I ____ (to learn) yesterday.",
+            "answer": "learned"
+        },
+        {
+            "sentence": "He ____ (to learn) to work last Monday.",
+            "answer": "learned"
+        },
+        {
+            "sentence": "I ____ (to leave) yesterday.",
+            "answer": "leaved"
+        },
+        {
+            "sentence": "He ____ (to leave) to work last Monday.",
+            "answer": "leaved"
+        },
+        {
+            "sentence": "I ____ (to listen) yesterday.",
+            "answer": "listened"
+        },
+        {
+            "sentence": "He ____ (to listen) to work last Monday.",
+            "answer": "listened"
+        },
+        {
+            "sentence": "I ____ (to live) yesterday.",
+            "answer": "lived"
+        },
+        {
+            "sentence": "He ____ (to live) to work last Monday.",
+            "answer": "lived"
+        },
+        {
+            "sentence": "I ____ (to look) yesterday.",
+            "answer": "looked"
+        },
+        {
+            "sentence": "He ____ (to look) to work last Monday.",
+            "answer": "looked"
+        },
+        {
+            "sentence": "I ____ (to lose) yesterday.",
+            "answer": "losed"
+        },
+        {
+            "sentence": "He ____ (to lose) to work last Monday.",
+            "answer": "losed"
+        },
+        {
+            "sentence": "I ____ (to make) yesterday.",
+            "answer": "maked"
+        },
+        {
+            "sentence": "He ____ (to make) to work last Monday.",
+            "answer": "maked"
+        },
+        {
+            "sentence": "I ____ (to need) yesterday.",
+            "answer": "needed"
+        },
+        {
+            "sentence": "He ____ (to need) to work last Monday.",
+            "answer": "needed"
+        },
+        {
+            "sentence": "I ____ (to open) yesterday.",
+            "answer": "opened"
+        },
+        {
+            "sentence": "He ____ (to open) to work last Monday.",
+            "answer": "opened"
+        },
+        {
+            "sentence": "I ____ (to close) yesterday.",
+            "answer": "closed"
+        },
+        {
+            "sentence": "He ____ (to close) to work last Monday.",
+            "answer": "closed"
+        },
+        {
+            "sentence": "I ____ (to organize) yesterday.",
+            "answer": "organized"
+        },
+        {
+            "sentence": "He ____ (to organize) to work last Monday.",
+            "answer": "organized"
+        },
+        {
+            "sentence": "I ____ (to pay) yesterday.",
+            "answer": "payed"
+        },
+        {
+            "sentence": "He ____ (to pay) to work last Monday.",
+            "answer": "payed"
+        },
+        {
+            "sentence": "I ____ (to play) yesterday.",
+            "answer": "played"
+        },
+        {
+            "sentence": "He ____ (to play) to work last Monday.",
+            "answer": "played"
+        },
+        {
+            "sentence": "I ____ (to put) yesterday.",
+            "answer": "puted"
+        },
+        {
+            "sentence": "He ____ (to put) to work last Monday.",
+            "answer": "puted"
+        },
+        {
+            "sentence": "I ____ (to read) yesterday.",
+            "answer": "readed"
+        },
+        {
+            "sentence": "He ____ (to read) to work last Monday.",
+            "answer": "readed"
+        },
+        {
+            "sentence": "I ____ (to reply) yesterday.",
+            "answer": "replyed"
+        },
+        {
+            "sentence": "He ____ (to reply) to work last Monday.",
+            "answer": "replyed"
+        },
+        {
+            "sentence": "I ____ (to run) yesterday.",
+            "answer": "runed"
+        },
+        {
+            "sentence": "He ____ (to run) to work last Monday.",
+            "answer": "runed"
+        },
+        {
+            "sentence": "I ____ (to say) yesterday.",
+            "answer": "sayed"
+        },
+        {
+            "sentence": "He ____ (to say) to work last Monday.",
+            "answer": "sayed"
+        },
+        {
+            "sentence": "I ____ (to see) yesterday.",
+            "answer": "seed"
+        },
+        {
+            "sentence": "He ____ (to see) to work last Monday.",
+            "answer": "seed"
+        },
+        {
+            "sentence": "I ____ (to sell) yesterday.",
+            "answer": "selled"
+        },
+        {
+            "sentence": "He ____ (to sell) to work last Monday.",
+            "answer": "selled"
+        },
+        {
+            "sentence": "I ____ (to send) yesterday.",
+            "answer": "sended"
+        },
+        {
+            "sentence": "He ____ (to send) to work last Monday.",
+            "answer": "sended"
+        },
+        {
+            "sentence": "I ____ (to sign) yesterday.",
+            "answer": "signed"
+        },
+        {
+            "sentence": "He ____ (to sign) to work last Monday.",
+            "answer": "signed"
+        },
+        {
+            "sentence": "I ____ (to sing) yesterday.",
+            "answer": "singed"
+        },
+        {
+            "sentence": "He ____ (to sing) to work last Monday.",
+            "answer": "singed"
+        },
+        {
+            "sentence": "I ____ (to sit) yesterday.",
+            "answer": "sited"
+        },
+        {
+            "sentence": "He ____ (to sit) to work last Monday.",
+            "answer": "sited"
+        },
+        {
+            "sentence": "I ____ (to sleep) yesterday.",
+            "answer": "sleeped"
+        },
+        {
+            "sentence": "He ____ (to sleep) to work last Monday.",
+            "answer": "sleeped"
+        },
+        {
+            "sentence": "I ____ (to smoke) yesterday.",
+            "answer": "smoked"
+        },
+        {
+            "sentence": "He ____ (to smoke) to work last Monday.",
+            "answer": "smoked"
+        },
+        {
+            "sentence": "I ____ (to speak) yesterday.",
+            "answer": "speaked"
+        },
+        {
+            "sentence": "He ____ (to speak) to work last Monday.",
+            "answer": "speaked"
+        },
+        {
+            "sentence": "I ____ (to spell) yesterday.",
+            "answer": "spelled"
+        },
+        {
+            "sentence": "He ____ (to spell) to work last Monday.",
+            "answer": "spelled"
+        },
+        {
+            "sentence": "I ____ (to spend) yesterday.",
+            "answer": "spended"
+        },
+        {
+            "sentence": "He ____ (to spend) to work last Monday.",
+            "answer": "spended"
+        },
+        {
+            "sentence": "I ____ (to stand) yesterday.",
+            "answer": "standed"
+        },
+        {
+            "sentence": "He ____ (to stand) to work last Monday.",
+            "answer": "standed"
+        },
+        {
+            "sentence": "I ____ (to start) yesterday.",
+            "answer": "started"
+        },
+        {
+            "sentence": "He ____ (to start) to work last Monday.",
+            "answer": "started"
+        },
+        {
+            "sentence": "I ____ (to study) yesterday.",
+            "answer": "studyed"
+        },
+        {
+            "sentence": "He ____ (to study) to work last Monday.",
+            "answer": "studyed"
+        },
+        {
+            "sentence": "I ____ (to succeed) yesterday.",
+            "answer": "succeeded"
+        },
+        {
+            "sentence": "He ____ (to succeed) to work last Monday.",
+            "answer": "succeeded"
+        },
+        {
+            "sentence": "I ____ (to swim) yesterday.",
+            "answer": "swimed"
+        },
+        {
+            "sentence": "He ____ (to swim) to work last Monday.",
+            "answer": "swimed"
+        },
+        {
+            "sentence": "I ____ (to take) yesterday.",
+            "answer": "taked"
+        },
+        {
+            "sentence": "He ____ (to take) to work last Monday.",
+            "answer": "taked"
+        },
+        {
+            "sentence": "I ____ (to talk) yesterday.",
+            "answer": "talked"
+        },
+        {
+            "sentence": "He ____ (to talk) to work last Monday.",
+            "answer": "talked"
+        },
+        {
+            "sentence": "I ____ (to teach) yesterday.",
+            "answer": "teached"
+        },
+        {
+            "sentence": "He ____ (to teach) to work last Monday.",
+            "answer": "teached"
+        },
+        {
+            "sentence": "I ____ (to tell) yesterday.",
+            "answer": "telled"
+        },
+        {
+            "sentence": "He ____ (to tell) to work last Monday.",
+            "answer": "telled"
+        },
+        {
+            "sentence": "I ____ (to think) yesterday.",
+            "answer": "thinked"
+        },
+        {
+            "sentence": "He ____ (to think) to work last Monday.",
+            "answer": "thinked"
+        },
+        {
+            "sentence": "I ____ (to translate) yesterday.",
+            "answer": "translated"
+        },
+        {
+            "sentence": "He ____ (to translate) to work last Monday.",
+            "answer": "translated"
+        },
+        {
+            "sentence": "I ____ (to travel) yesterday.",
+            "answer": "traveled"
+        },
+        {
+            "sentence": "He ____ (to travel) to work last Monday.",
+            "answer": "traveled"
+        },
+        {
+            "sentence": "I ____ (to try) yesterday.",
+            "answer": "tryed"
+        },
+        {
+            "sentence": "He ____ (to try) to work last Monday.",
+            "answer": "tryed"
+        },
+        {
+            "sentence": "I ____ (to turn) yesterday.",
+            "answer": "turned"
+        },
+        {
+            "sentence": "He ____ (to turn) to work last Monday.",
+            "answer": "turned"
+        },
+        {
+            "sentence": "I ____ (to type) yesterday.",
+            "answer": "typed"
+        },
+        {
+            "sentence": "He ____ (to type) to work last Monday.",
+            "answer": "typed"
+        },
+        {
+            "sentence": "I ____ (to understand) yesterday.",
+            "answer": "understanded"
+        },
+        {
+            "sentence": "He ____ (to understand) to work last Monday.",
+            "answer": "understanded"
+        },
+        {
+            "sentence": "I ____ (to use) yesterday.",
+            "answer": "used"
+        },
+        {
+            "sentence": "He ____ (to use) to work last Monday.",
+            "answer": "used"
+        },
+        {
+            "sentence": "I ____ (to wait) yesterday.",
+            "answer": "waited"
+        },
+        {
+            "sentence": "He ____ (to wait) to work last Monday.",
+            "answer": "waited"
+        },
+        {
+            "sentence": "I ____ (to wake) yesterday.",
+            "answer": "waked"
+        },
+        {
+            "sentence": "He ____ (to wake) to work last Monday.",
+            "answer": "waked"
+        },
+        {
+            "sentence": "I ____ (to walk) yesterday.",
+            "answer": "walked"
+        },
+        {
+            "sentence": "He ____ (to walk) to work last Monday.",
+            "answer": "walked"
+        },
+        {
+            "sentence": "I ____ (to want) yesterday.",
+            "answer": "wanted"
+        },
+        {
+            "sentence": "He ____ (to want) to work last Monday.",
+            "answer": "wanted"
+        },
+        {
+            "sentence": "I ____ (to watch) yesterday.",
+            "answer": "watched"
+        },
+        {
+            "sentence": "He ____ (to watch) to work last Monday.",
+            "answer": "watched"
+        },
+        {
+            "sentence": "I ____ (to work) yesterday.",
+            "answer": "worked"
+        },
+        {
+            "sentence": "He ____ (to work) to work last Monday.",
+            "answer": "worked"
+        },
+        {
+            "sentence": "I ____ (to worry) yesterday.",
+            "answer": "worryed"
+        },
+        {
+            "sentence": "He ____ (to worry) to work last Monday.",
+            "answer": "worryed"
+        },
+        {
+            "sentence": "I ____ (to write) yesterday.",
+            "answer": "writed"
+        },
+        {
+            "sentence": "He ____ (to write) to work last Monday.",
+            "answer": "writed"
+        },
+        {
+            "sentence": "I ____ (to add) yesterday.",
+            "answer": "added"
+        },
+        {
+            "sentence": "He ____ (to add) to work last Monday.",
+            "answer": "added"
+        },
+        {
+            "sentence": "I ____ (to admire) yesterday.",
+            "answer": "admired"
+        },
+        {
+            "sentence": "He ____ (to admire) to work last Monday.",
+            "answer": "admired"
+        },
+        {
+            "sentence": "I ____ (to admit) yesterday.",
+            "answer": "admited"
+        },
+        {
+            "sentence": "He ____ (to admit) to work last Monday.",
+            "answer": "admited"
+        },
+        {
+            "sentence": "I ____ (to advise) yesterday.",
+            "answer": "advised"
+        },
+        {
+            "sentence": "He ____ (to advise) to work last Monday.",
+            "answer": "advised"
+        },
+        {
+            "sentence": "I ____ (to afford) yesterday.",
+            "answer": "afforded"
+        },
+        {
+            "sentence": "He ____ (to afford) to work last Monday.",
+            "answer": "afforded"
+        },
+        {
+            "sentence": "I ____ (to agree) yesterday.",
+            "answer": "agreed"
+        },
+        {
+            "sentence": "He ____ (to agree) to work last Monday.",
+            "answer": "agreed"
+        },
+        {
+            "sentence": "I ____ (to alert) yesterday.",
+            "answer": "alerted"
+        },
+        {
+            "sentence": "He ____ (to alert) to work last Monday.",
+            "answer": "alerted"
+        },
+        {
+            "sentence": "I ____ (to amuse) yesterday.",
+            "answer": "amused"
+        },
+        {
+            "sentence": "He ____ (to amuse) to work last Monday.",
+            "answer": "amused"
+        },
+        {
+            "sentence": "I ____ (to analyse) yesterday.",
+            "answer": "analysed"
+        },
+        {
+            "sentence": "He ____ (to analyse) to work last Monday.",
+            "answer": "analysed"
+        },
+        {
+            "sentence": "I ____ (to announce) yesterday.",
+            "answer": "announced"
+        },
+        {
+            "sentence": "He ____ (to announce) to work last Monday.",
+            "answer": "announced"
+        },
+        {
+            "sentence": "I ____ (to annoy) yesterday.",
+            "answer": "annoyed"
+        },
+        {
+            "sentence": "He ____ (to annoy) to work last Monday.",
+            "answer": "annoyed"
+        },
+        {
+            "sentence": "I ____ (to answer) yesterday.",
+            "answer": "answered"
+        },
+        {
+            "sentence": "He ____ (to answer) to work last Monday.",
+            "answer": "answered"
+        },
+        {
+            "sentence": "I ____ (to apologize) yesterday.",
+            "answer": "apologized"
+        },
+        {
+            "sentence": "He ____ (to apologize) to work last Monday.",
+            "answer": "apologized"
+        },
+        {
+            "sentence": "I ____ (to appear) yesterday.",
+            "answer": "appeared"
+        },
+        {
+            "sentence": "He ____ (to appear) to work last Monday.",
+            "answer": "appeared"
+        },
+        {
+            "sentence": "I ____ (to applaud) yesterday.",
+            "answer": "applauded"
+        },
+        {
+            "sentence": "He ____ (to applaud) to work last Monday.",
+            "answer": "applauded"
+        },
+        {
+            "sentence": "I ____ (to appreciate) yesterday.",
+            "answer": "appreciated"
+        },
+        {
+            "sentence": "He ____ (to appreciate) to work last Monday.",
+            "answer": "appreciated"
+        },
+        {
+            "sentence": "I ____ (to approve) yesterday.",
+            "answer": "approved"
+        },
+        {
+            "sentence": "He ____ (to approve) to work last Monday.",
+            "answer": "approved"
+        },
+        {
+            "sentence": "I ____ (to argue) yesterday.",
+            "answer": "argued"
+        },
+        {
+            "sentence": "He ____ (to argue) to work last Monday.",
+            "answer": "argued"
+        },
+        {
+            "sentence": "I ____ (to arrange) yesterday.",
+            "answer": "arranged"
+        },
+        {
+            "sentence": "He ____ (to arrange) to work last Monday.",
+            "answer": "arranged"
+        },
+        {
+            "sentence": "I ____ (to arrest) yesterday.",
+            "answer": "arrested"
+        },
+        {
+            "sentence": "He ____ (to arrest) to work last Monday.",
+            "answer": "arrested"
+        },
+        {
+            "sentence": "I ____ (to arrive) yesterday.",
+            "answer": "arrived"
+        },
+        {
+            "sentence": "He ____ (to arrive) to work last Monday.",
+            "answer": "arrived"
+        },
+        {
+            "sentence": "I ____ (to attach) yesterday.",
+            "answer": "attached"
+        },
+        {
+            "sentence": "He ____ (to attach) to work last Monday.",
+            "answer": "attached"
+        },
+        {
+            "sentence": "I ____ (to attack) yesterday.",
+            "answer": "attacked"
+        },
+        {
+            "sentence": "He ____ (to attack) to work last Monday.",
+            "answer": "attacked"
+        },
+        {
+            "sentence": "I ____ (to attempt) yesterday.",
+            "answer": "attempted"
+        },
+        {
+            "sentence": "He ____ (to attempt) to work last Monday.",
+            "answer": "attempted"
+        },
+        {
+            "sentence": "I ____ (to attend) yesterday.",
+            "answer": "attended"
+        },
+        {
+            "sentence": "He ____ (to attend) to work last Monday.",
+            "answer": "attended"
+        },
+        {
+            "sentence": "I ____ (to attract) yesterday.",
+            "answer": "attracted"
+        },
+        {
+            "sentence": "He ____ (to attract) to work last Monday.",
+            "answer": "attracted"
+        },
+        {
+            "sentence": "I ____ (to avoid) yesterday.",
+            "answer": "avoided"
+        },
+        {
+            "sentence": "He ____ (to avoid) to work last Monday.",
+            "answer": "avoided"
+        },
+        {
+            "sentence": "I ____ (to bake) yesterday.",
+            "answer": "baked"
+        },
+        {
+            "sentence": "He ____ (to bake) to work last Monday.",
+            "answer": "baked"
+        },
+        {
+            "sentence": "I ____ (to balance) yesterday.",
+            "answer": "balanced"
+        },
+        {
+            "sentence": "He ____ (to balance) to work last Monday.",
+            "answer": "balanced"
+        },
+        {
+            "sentence": "I ____ (to ban) yesterday.",
+            "answer": "baned"
+        },
+        {
+            "sentence": "He ____ (to ban) to work last Monday.",
+            "answer": "baned"
+        },
+        {
+            "sentence": "I ____ (to bat) yesterday.",
+            "answer": "bated"
+        },
+        {
+            "sentence": "He ____ (to bat) to work last Monday.",
+            "answer": "bated"
+        },
+        {
+            "sentence": "I ____ (to bathe) yesterday.",
+            "answer": "bathed"
+        },
+        {
+            "sentence": "He ____ (to bathe) to work last Monday.",
+            "answer": "bathed"
+        },
+        {
+            "sentence": "I ____ (to battle) yesterday.",
+            "answer": "battled"
+        },
+        {
+            "sentence": "He ____ (to battle) to work last Monday.",
+            "answer": "battled"
+        },
+        {
+            "sentence": "I ____ (to beam) yesterday.",
+            "answer": "beamed"
+        },
+        {
+            "sentence": "He ____ (to beam) to work last Monday.",
+            "answer": "beamed"
+        },
+        {
+            "sentence": "I ____ (to beg) yesterday.",
+            "answer": "beged"
+        },
+        {
+            "sentence": "He ____ (to beg) to work last Monday.",
+            "answer": "beged"
+        },
+        {
+            "sentence": "I ____ (to behave) yesterday.",
+            "answer": "behaved"
+        },
+        {
+            "sentence": "He ____ (to behave) to work last Monday.",
+            "answer": "behaved"
+        },
+        {
+            "sentence": "I ____ (to belong) yesterday.",
+            "answer": "belonged"
+        },
+        {
+            "sentence": "He ____ (to belong) to work last Monday.",
+            "answer": "belonged"
+        },
+        {
+            "sentence": "I ____ (to bleach) yesterday.",
+            "answer": "bleached"
+        },
+        {
+            "sentence": "He ____ (to bleach) to work last Monday.",
+            "answer": "bleached"
+        },
+        {
+            "sentence": "I ____ (to bless) yesterday.",
+            "answer": "blessed"
+        },
+        {
+            "sentence": "He ____ (to bless) to work last Monday.",
+            "answer": "blessed"
+        },
+        {
+            "sentence": "I ____ (to blind) yesterday.",
+            "answer": "blinded"
+        },
+        {
+            "sentence": "He ____ (to blind) to work last Monday.",
+            "answer": "blinded"
+        },
+        {
+            "sentence": "I ____ (to blink) yesterday.",
+            "answer": "blinked"
+        },
+        {
+            "sentence": "He ____ (to blink) to work last Monday.",
+            "answer": "blinked"
+        },
+        {
+            "sentence": "I ____ (to blot) yesterday.",
+            "answer": "bloted"
+        },
+        {
+            "sentence": "He ____ (to blot) to work last Monday.",
+            "answer": "bloted"
+        },
+        {
+            "sentence": "I ____ (to blow) yesterday.",
+            "answer": "blowed"
+        },
+        {
+            "sentence": "He ____ (to blow) to work last Monday.",
+            "answer": "blowed"
+        },
+        {
+            "sentence": "I ____ (to blush) yesterday.",
+            "answer": "blushed"
+        },
+        {
+            "sentence": "He ____ (to blush) to work last Monday.",
+            "answer": "blushed"
+        },
+        {
+            "sentence": "I ____ (to boast) yesterday.",
+            "answer": "boasted"
+        },
+        {
+            "sentence": "He ____ (to boast) to work last Monday.",
+            "answer": "boasted"
+        },
+        {
+            "sentence": "I ____ (to boil) yesterday.",
+            "answer": "boiled"
+        },
+        {
+            "sentence": "He ____ (to boil) to work last Monday.",
+            "answer": "boiled"
+        },
+        {
+            "sentence": "I ____ (to bolt) yesterday.",
+            "answer": "bolted"
+        },
+        {
+            "sentence": "He ____ (to bolt) to work last Monday.",
+            "answer": "bolted"
+        },
+        {
+            "sentence": "I ____ (to bomb) yesterday.",
+            "answer": "bombed"
+        },
+        {
+            "sentence": "He ____ (to bomb) to work last Monday.",
+            "answer": "bombed"
+        },
+        {
+            "sentence": "I ____ (to book) yesterday.",
+            "answer": "booked"
+        },
+        {
+            "sentence": "He ____ (to book) to work last Monday.",
+            "answer": "booked"
+        },
+        {
+            "sentence": "I ____ (to bore) yesterday.",
+            "answer": "bored"
+        },
+        {
+            "sentence": "He ____ (to bore) to work last Monday.",
+            "answer": "bored"
+        },
+        {
+            "sentence": "I ____ (to borrow) yesterday.",
+            "answer": "borrowed"
+        },
+        {
+            "sentence": "He ____ (to borrow) to work last Monday.",
+            "answer": "borrowed"
+        },
+        {
+            "sentence": "I ____ (to bounce) yesterday.",
+            "answer": "bounced"
+        },
+        {
+            "sentence": "He ____ (to bounce) to work last Monday.",
+            "answer": "bounced"
+        },
+        {
+            "sentence": "I ____ (to bow) yesterday.",
+            "answer": "bowed"
+        },
+        {
+            "sentence": "He ____ (to bow) to work last Monday.",
+            "answer": "bowed"
+        },
+        {
+            "sentence": "I ____ (to box) yesterday.",
+            "answer": "boxed"
+        },
+        {
+            "sentence": "He ____ (to box) to work last Monday.",
+            "answer": "boxed"
+        },
+        {
+            "sentence": "I ____ (to brake) yesterday.",
+            "answer": "braked"
+        },
+        {
+            "sentence": "He ____ (to brake) to work last Monday.",
+            "answer": "braked"
+        },
+        {
+            "sentence": "I ____ (to branch) yesterday.",
+            "answer": "branched"
+        },
+        {
+            "sentence": "He ____ (to branch) to work last Monday.",
+            "answer": "branched"
+        },
+        {
+            "sentence": "I ____ (to breathe) yesterday.",
+            "answer": "breathed"
+        },
+        {
+            "sentence": "He ____ (to breathe) to work last Monday.",
+            "answer": "breathed"
+        },
+        {
+            "sentence": "I ____ (to bruise) yesterday.",
+            "answer": "bruised"
+        },
+        {
+            "sentence": "He ____ (to bruise) to work last Monday.",
+            "answer": "bruised"
+        },
+        {
+            "sentence": "I ____ (to brush) yesterday.",
+            "answer": "brushed"
+        },
+        {
+            "sentence": "He ____ (to brush) to work last Monday.",
+            "answer": "brushed"
+        },
+        {
+            "sentence": "I ____ (to bubble) yesterday.",
+            "answer": "bubbled"
+        },
+        {
+            "sentence": "He ____ (to bubble) to work last Monday.",
+            "answer": "bubbled"
+        },
+        {
+            "sentence": "I ____ (to bump) yesterday.",
+            "answer": "bumped"
+        },
+        {
+            "sentence": "He ____ (to bump) to work last Monday.",
+            "answer": "bumped"
+        },
+        {
+            "sentence": "I ____ (to burn) yesterday.",
+            "answer": "burned"
+        },
+        {
+            "sentence": "He ____ (to burn) to work last Monday.",
+            "answer": "burned"
+        },
+        {
+            "sentence": "I ____ (to bury) yesterday.",
+            "answer": "buryed"
+        },
+        {
+            "sentence": "He ____ (to bury) to work last Monday.",
+            "answer": "buryed"
+        },
+        {
+            "sentence": "I ____ (to buzz) yesterday.",
+            "answer": "buzzed"
+        },
+        {
+            "sentence": "He ____ (to buzz) to work last Monday.",
+            "answer": "buzzed"
+        },
+        {
+            "sentence": "I ____ (to calculate) yesterday.",
+            "answer": "calculated"
+        },
+        {
+            "sentence": "He ____ (to calculate) to work last Monday.",
+            "answer": "calculated"
+        },
+        {
+            "sentence": "I ____ (to call) yesterday.",
+            "answer": "called"
+        },
+        {
+            "sentence": "He ____ (to call) to work last Monday.",
+            "answer": "called"
+        },
+        {
+            "sentence": "I ____ (to camp) yesterday.",
+            "answer": "camped"
+        },
+        {
+            "sentence": "He ____ (to camp) to work last Monday.",
+            "answer": "camped"
+        },
+        {
+            "sentence": "I ____ (to care) yesterday.",
+            "answer": "cared"
+        },
+        {
+            "sentence": "He ____ (to care) to work last Monday.",
+            "answer": "cared"
+        },
+        {
+            "sentence": "I ____ (to carry) yesterday.",
+            "answer": "carryed"
+        },
+        {
+            "sentence": "He ____ (to carry) to work last Monday.",
+            "answer": "carryed"
+        },
+        {
+            "sentence": "I ____ (to carve) yesterday.",
+            "answer": "carved"
+        },
+        {
+            "sentence": "He ____ (to carve) to work last Monday.",
+            "answer": "carved"
+        },
+        {
+            "sentence": "I ____ (to cause) yesterday.",
+            "answer": "caused"
+        },
+        {
+            "sentence": "He ____ (to cause) to work last Monday.",
+            "answer": "caused"
+        },
+        {
+            "sentence": "I ____ (to challenge) yesterday.",
+            "answer": "challenged"
+        },
+        {
+            "sentence": "He ____ (to challenge) to work last Monday.",
+            "answer": "challenged"
+        },
+        {
+            "sentence": "I ____ (to change) yesterday.",
+            "answer": "changed"
+        },
+        {
+            "sentence": "He ____ (to change) to work last Monday.",
+            "answer": "changed"
+        },
+        {
+            "sentence": "I ____ (to charge) yesterday.",
+            "answer": "charged"
+        },
+        {
+            "sentence": "He ____ (to charge) to work last Monday.",
+            "answer": "charged"
+        },
+        {
+            "sentence": "I ____ (to chase) yesterday.",
+            "answer": "chased"
+        },
+        {
+            "sentence": "He ____ (to chase) to work last Monday.",
+            "answer": "chased"
+        },
+        {
+            "sentence": "I ____ (to cheat) yesterday.",
+            "answer": "cheated"
+        },
+        {
+            "sentence": "He ____ (to cheat) to work last Monday.",
+            "answer": "cheated"
+        },
+        {
+            "sentence": "I ____ (to check) yesterday.",
+            "answer": "checked"
+        },
+        {
+            "sentence": "He ____ (to check) to work last Monday.",
+            "answer": "checked"
+        },
+        {
+            "sentence": "I ____ (to cheer) yesterday.",
+            "answer": "cheered"
+        },
+        {
+            "sentence": "He ____ (to cheer) to work last Monday.",
+            "answer": "cheered"
+        },
+        {
+            "sentence": "I ____ (to chew) yesterday.",
+            "answer": "chewed"
+        },
+        {
+            "sentence": "He ____ (to chew) to work last Monday.",
+            "answer": "chewed"
+        },
+        {
+            "sentence": "I ____ (to choke) yesterday.",
+            "answer": "choked"
+        },
+        {
+            "sentence": "He ____ (to choke) to work last Monday.",
+            "answer": "choked"
+        },
+        {
+            "sentence": "I ____ (to chop) yesterday.",
+            "answer": "choped"
+        },
+        {
+            "sentence": "He ____ (to chop) to work last Monday.",
+            "answer": "choped"
+        },
+        {
+            "sentence": "I ____ (to claim) yesterday.",
+            "answer": "claimed"
+        },
+        {
+            "sentence": "He ____ (to claim) to work last Monday.",
+            "answer": "claimed"
+        },
+        {
+            "sentence": "I ____ (to clap) yesterday.",
+            "answer": "claped"
+        },
+        {
+            "sentence": "He ____ (to clap) to work last Monday.",
+            "answer": "claped"
+        },
+        {
+            "sentence": "I ____ (to clean) yesterday.",
+            "answer": "cleaned"
+        },
+        {
+            "sentence": "He ____ (to clean) to work last Monday.",
+            "answer": "cleaned"
+        },
+        {
+            "sentence": "I ____ (to clear) yesterday.",
+            "answer": "cleared"
+        },
+        {
+            "sentence": "He ____ (to clear) to work last Monday.",
+            "answer": "cleared"
+        },
+        {
+            "sentence": "I ____ (to clip) yesterday.",
+            "answer": "cliped"
+        },
+        {
+            "sentence": "He ____ (to clip) to work last Monday.",
+            "answer": "cliped"
+        },
+        {
+            "sentence": "I ____ (to close) yesterday.",
+            "answer": "closed"
+        },
+        {
+            "sentence": "He ____ (to close) to work last Monday.",
+            "answer": "closed"
+        },
+        {
+            "sentence": "I ____ (to coach) yesterday.",
+            "answer": "coached"
+        },
+        {
+            "sentence": "He ____ (to coach) to work last Monday.",
+            "answer": "coached"
+        },
+        {
+            "sentence": "I ____ (to coil) yesterday.",
+            "answer": "coiled"
+        },
+        {
+            "sentence": "He ____ (to coil) to work last Monday.",
+            "answer": "coiled"
+        },
+        {
+            "sentence": "I ____ (to collect) yesterday.",
+            "answer": "collected"
+        },
+        {
+            "sentence": "He ____ (to collect) to work last Monday.",
+            "answer": "collected"
+        },
+        {
+            "sentence": "I ____ (to colour) yesterday.",
+            "answer": "coloured"
+        },
+        {
+            "sentence": "He ____ (to colour) to work last Monday.",
+            "answer": "coloured"
+        },
+        {
+            "sentence": "I ____ (to comb) yesterday.",
+            "answer": "combed"
+        },
+        {
+            "sentence": "He ____ (to comb) to work last Monday.",
+            "answer": "combed"
+        },
+        {
+            "sentence": "I ____ (to command) yesterday.",
+            "answer": "commanded"
+        },
+        {
+            "sentence": "He ____ (to command) to work last Monday.",
+            "answer": "commanded"
+        },
+        {
+            "sentence": "I ____ (to communicate) yesterday.",
+            "answer": "communicated"
+        },
+        {
+            "sentence": "He ____ (to communicate) to work last Monday.",
+            "answer": "communicated"
+        },
+        {
+            "sentence": "I ____ (to compare) yesterday.",
+            "answer": "compared"
+        },
+        {
+            "sentence": "He ____ (to compare) to work last Monday.",
+            "answer": "compared"
+        },
+        {
+            "sentence": "I ____ (to compete) yesterday.",
+            "answer": "competed"
+        },
+        {
+            "sentence": "He ____ (to compete) to work last Monday.",
+            "answer": "competed"
+        },
+        {
+            "sentence": "I ____ (to complain) yesterday.",
+            "answer": "complained"
+        },
+        {
+            "sentence": "He ____ (to complain) to work last Monday.",
+            "answer": "complained"
+        }
+    ],
+    "future": [
+        {
+            "sentence": "I ____ (to accept) tomorrow.",
+            "answer": "will accept"
+        },
+        {
+            "sentence": "He ____ (to accept) to work next Monday.",
+            "answer": "will accept"
+        },
+        {
+            "sentence": "I ____ (to allow) tomorrow.",
+            "answer": "will allow"
+        },
+        {
+            "sentence": "He ____ (to allow) to work next Monday.",
+            "answer": "will allow"
+        },
+        {
+            "sentence": "I ____ (to ask) tomorrow.",
+            "answer": "will ask"
+        },
+        {
+            "sentence": "He ____ (to ask) to work next Monday.",
+            "answer": "will ask"
+        },
+        {
+            "sentence": "I ____ (to believe) tomorrow.",
+            "answer": "will believe"
+        },
+        {
+            "sentence": "He ____ (to believe) to work next Monday.",
+            "answer": "will believe"
+        },
+        {
+            "sentence": "I ____ (to borrow) tomorrow.",
+            "answer": "will borrow"
+        },
+        {
+            "sentence": "He ____ (to borrow) to work next Monday.",
+            "answer": "will borrow"
+        },
+        {
+            "sentence": "I ____ (to break) tomorrow.",
+            "answer": "will break"
+        },
+        {
+            "sentence": "He ____ (to break) to work next Monday.",
+            "answer": "will break"
+        },
+        {
+            "sentence": "I ____ (to bring) tomorrow.",
+            "answer": "will bring"
+        },
+        {
+            "sentence": "He ____ (to bring) to work next Monday.",
+            "answer": "will bring"
+        },
+        {
+            "sentence": "I ____ (to buy) tomorrow.",
+            "answer": "will buy"
+        },
+        {
+            "sentence": "He ____ (to buy) to work next Monday.",
+            "answer": "will buy"
+        },
+        {
+            "sentence": "I ____ (to cancel) tomorrow.",
+            "answer": "will cancel"
+        },
+        {
+            "sentence": "He ____ (to cancel) to work next Monday.",
+            "answer": "will cancel"
+        },
+        {
+            "sentence": "I ____ (to change) tomorrow.",
+            "answer": "will change"
+        },
+        {
+            "sentence": "He ____ (to change) to work next Monday.",
+            "answer": "will change"
+        },
+        {
+            "sentence": "I ____ (to clean) tomorrow.",
+            "answer": "will clean"
+        },
+        {
+            "sentence": "He ____ (to clean) to work next Monday.",
+            "answer": "will clean"
+        },
+        {
+            "sentence": "I ____ (to comb) tomorrow.",
+            "answer": "will comb"
+        },
+        {
+            "sentence": "He ____ (to comb) to work next Monday.",
+            "answer": "will comb"
+        },
+        {
+            "sentence": "I ____ (to complain) tomorrow.",
+            "answer": "will complain"
+        },
+        {
+            "sentence": "He ____ (to complain) to work next Monday.",
+            "answer": "will complain"
+        },
+        {
+            "sentence": "I ____ (to cook) tomorrow.",
+            "answer": "will cook"
+        },
+        {
+            "sentence": "He ____ (to cook) to work next Monday.",
+            "answer": "will cook"
+        },
+        {
+            "sentence": "I ____ (to cough) tomorrow.",
+            "answer": "will cough"
+        },
+        {
+            "sentence": "He ____ (to cough) to work next Monday.",
+            "answer": "will cough"
+        },
+        {
+            "sentence": "I ____ (to count) tomorrow.",
+            "answer": "will count"
+        },
+        {
+            "sentence": "He ____ (to count) to work next Monday.",
+            "answer": "will count"
+        },
+        {
+            "sentence": "I ____ (to cry) tomorrow.",
+            "answer": "will cry"
+        },
+        {
+            "sentence": "He ____ (to cry) to work next Monday.",
+            "answer": "will cry"
+        },
+        {
+            "sentence": "I ____ (to dance) tomorrow.",
+            "answer": "will dance"
+        },
+        {
+            "sentence": "He ____ (to dance) to work next Monday.",
+            "answer": "will dance"
+        },
+        {
+            "sentence": "I ____ (to draw) tomorrow.",
+            "answer": "will draw"
+        },
+        {
+            "sentence": "He ____ (to draw) to work next Monday.",
+            "answer": "will draw"
+        },
+        {
+            "sentence": "I ____ (to drink) tomorrow.",
+            "answer": "will drink"
+        },
+        {
+            "sentence": "He ____ (to drink) to work next Monday.",
+            "answer": "will drink"
+        },
+        {
+            "sentence": "I ____ (to eat) tomorrow.",
+            "answer": "will eat"
+        },
+        {
+            "sentence": "He ____ (to eat) to work next Monday.",
+            "answer": "will eat"
+        },
+        {
+            "sentence": "I ____ (to explain) tomorrow.",
+            "answer": "will explain"
+        },
+        {
+            "sentence": "He ____ (to explain) to work next Monday.",
+            "answer": "will explain"
+        },
+        {
+            "sentence": "I ____ (to fall) tomorrow.",
+            "answer": "will fall"
+        },
+        {
+            "sentence": "He ____ (to fall) to work next Monday.",
+            "answer": "will fall"
+        },
+        {
+            "sentence": "I ____ (to fill) tomorrow.",
+            "answer": "will fill"
+        },
+        {
+            "sentence": "He ____ (to fill) to work next Monday.",
+            "answer": "will fill"
+        },
+        {
+            "sentence": "I ____ (to find) tomorrow.",
+            "answer": "will find"
+        },
+        {
+            "sentence": "He ____ (to find) to work next Monday.",
+            "answer": "will find"
+        },
+        {
+            "sentence": "I ____ (to finish) tomorrow.",
+            "answer": "will finish"
+        },
+        {
+            "sentence": "He ____ (to finish) to work next Monday.",
+            "answer": "will finish"
+        },
+        {
+            "sentence": "I ____ (to fit) tomorrow.",
+            "answer": "will fit"
+        },
+        {
+            "sentence": "He ____ (to fit) to work next Monday.",
+            "answer": "will fit"
+        },
+        {
+            "sentence": "I ____ (to fix) tomorrow.",
+            "answer": "will fix"
+        },
+        {
+            "sentence": "He ____ (to fix) to work next Monday.",
+            "answer": "will fix"
+        },
+        {
+            "sentence": "I ____ (to fly) tomorrow.",
+            "answer": "will fly"
+        },
+        {
+            "sentence": "He ____ (to fly) to work next Monday.",
+            "answer": "will fly"
+        },
+        {
+            "sentence": "I ____ (to forget) tomorrow.",
+            "answer": "will forget"
+        },
+        {
+            "sentence": "He ____ (to forget) to work next Monday.",
+            "answer": "will forget"
+        },
+        {
+            "sentence": "I ____ (to give) tomorrow.",
+            "answer": "will give"
+        },
+        {
+            "sentence": "He ____ (to give) to work next Monday.",
+            "answer": "will give"
+        },
+        {
+            "sentence": "I ____ (to go) tomorrow.",
+            "answer": "will go"
+        },
+        {
+            "sentence": "He ____ (to go) to work next Monday.",
+            "answer": "will go"
+        },
+        {
+            "sentence": "I ____ (to have) tomorrow.",
+            "answer": "will have"
+        },
+        {
+            "sentence": "He ____ (to have) to work next Monday.",
+            "answer": "will have"
+        },
+        {
+            "sentence": "I ____ (to hear) tomorrow.",
+            "answer": "will hear"
+        },
+        {
+            "sentence": "He ____ (to hear) to work next Monday.",
+            "answer": "will hear"
+        },
+        {
+            "sentence": "I ____ (to help) tomorrow.",
+            "answer": "will help"
+        },
+        {
+            "sentence": "He ____ (to help) to work next Monday.",
+            "answer": "will help"
+        },
+        {
+            "sentence": "I ____ (to hope) tomorrow.",
+            "answer": "will hope"
+        },
+        {
+            "sentence": "He ____ (to hope) to work next Monday.",
+            "answer": "will hope"
+        },
+        {
+            "sentence": "I ____ (to hurt) tomorrow.",
+            "answer": "will hurt"
+        },
+        {
+            "sentence": "He ____ (to hurt) to work next Monday.",
+            "answer": "will hurt"
+        },
+        {
+            "sentence": "I ____ (to jump) tomorrow.",
+            "answer": "will jump"
+        },
+        {
+            "sentence": "He ____ (to jump) to work next Monday.",
+            "answer": "will jump"
+        },
+        {
+            "sentence": "I ____ (to know) tomorrow.",
+            "answer": "will know"
+        },
+        {
+            "sentence": "He ____ (to know) to work next Monday.",
+            "answer": "will know"
+        },
+        {
+            "sentence": "I ____ (to learn) tomorrow.",
+            "answer": "will learn"
+        },
+        {
+            "sentence": "He ____ (to learn) to work next Monday.",
+            "answer": "will learn"
+        },
+        {
+            "sentence": "I ____ (to leave) tomorrow.",
+            "answer": "will leave"
+        },
+        {
+            "sentence": "He ____ (to leave) to work next Monday.",
+            "answer": "will leave"
+        },
+        {
+            "sentence": "I ____ (to listen) tomorrow.",
+            "answer": "will listen"
+        },
+        {
+            "sentence": "He ____ (to listen) to work next Monday.",
+            "answer": "will listen"
+        },
+        {
+            "sentence": "I ____ (to live) tomorrow.",
+            "answer": "will live"
+        },
+        {
+            "sentence": "He ____ (to live) to work next Monday.",
+            "answer": "will live"
+        },
+        {
+            "sentence": "I ____ (to look) tomorrow.",
+            "answer": "will look"
+        },
+        {
+            "sentence": "He ____ (to look) to work next Monday.",
+            "answer": "will look"
+        },
+        {
+            "sentence": "I ____ (to lose) tomorrow.",
+            "answer": "will lose"
+        },
+        {
+            "sentence": "He ____ (to lose) to work next Monday.",
+            "answer": "will lose"
+        },
+        {
+            "sentence": "I ____ (to make) tomorrow.",
+            "answer": "will make"
+        },
+        {
+            "sentence": "He ____ (to make) to work next Monday.",
+            "answer": "will make"
+        },
+        {
+            "sentence": "I ____ (to need) tomorrow.",
+            "answer": "will need"
+        },
+        {
+            "sentence": "He ____ (to need) to work next Monday.",
+            "answer": "will need"
+        },
+        {
+            "sentence": "I ____ (to open) tomorrow.",
+            "answer": "will open"
+        },
+        {
+            "sentence": "He ____ (to open) to work next Monday.",
+            "answer": "will open"
+        },
+        {
+            "sentence": "I ____ (to close) tomorrow.",
+            "answer": "will close"
+        },
+        {
+            "sentence": "He ____ (to close) to work next Monday.",
+            "answer": "will close"
+        },
+        {
+            "sentence": "I ____ (to organize) tomorrow.",
+            "answer": "will organize"
+        },
+        {
+            "sentence": "He ____ (to organize) to work next Monday.",
+            "answer": "will organize"
+        },
+        {
+            "sentence": "I ____ (to pay) tomorrow.",
+            "answer": "will pay"
+        },
+        {
+            "sentence": "He ____ (to pay) to work next Monday.",
+            "answer": "will pay"
+        },
+        {
+            "sentence": "I ____ (to play) tomorrow.",
+            "answer": "will play"
+        },
+        {
+            "sentence": "He ____ (to play) to work next Monday.",
+            "answer": "will play"
+        },
+        {
+            "sentence": "I ____ (to put) tomorrow.",
+            "answer": "will put"
+        },
+        {
+            "sentence": "He ____ (to put) to work next Monday.",
+            "answer": "will put"
+        },
+        {
+            "sentence": "I ____ (to read) tomorrow.",
+            "answer": "will read"
+        },
+        {
+            "sentence": "He ____ (to read) to work next Monday.",
+            "answer": "will read"
+        },
+        {
+            "sentence": "I ____ (to reply) tomorrow.",
+            "answer": "will reply"
+        },
+        {
+            "sentence": "He ____ (to reply) to work next Monday.",
+            "answer": "will reply"
+        },
+        {
+            "sentence": "I ____ (to run) tomorrow.",
+            "answer": "will run"
+        },
+        {
+            "sentence": "He ____ (to run) to work next Monday.",
+            "answer": "will run"
+        },
+        {
+            "sentence": "I ____ (to say) tomorrow.",
+            "answer": "will say"
+        },
+        {
+            "sentence": "He ____ (to say) to work next Monday.",
+            "answer": "will say"
+        },
+        {
+            "sentence": "I ____ (to see) tomorrow.",
+            "answer": "will see"
+        },
+        {
+            "sentence": "He ____ (to see) to work next Monday.",
+            "answer": "will see"
+        },
+        {
+            "sentence": "I ____ (to sell) tomorrow.",
+            "answer": "will sell"
+        },
+        {
+            "sentence": "He ____ (to sell) to work next Monday.",
+            "answer": "will sell"
+        },
+        {
+            "sentence": "I ____ (to send) tomorrow.",
+            "answer": "will send"
+        },
+        {
+            "sentence": "He ____ (to send) to work next Monday.",
+            "answer": "will send"
+        },
+        {
+            "sentence": "I ____ (to sign) tomorrow.",
+            "answer": "will sign"
+        },
+        {
+            "sentence": "He ____ (to sign) to work next Monday.",
+            "answer": "will sign"
+        },
+        {
+            "sentence": "I ____ (to sing) tomorrow.",
+            "answer": "will sing"
+        },
+        {
+            "sentence": "He ____ (to sing) to work next Monday.",
+            "answer": "will sing"
+        },
+        {
+            "sentence": "I ____ (to sit) tomorrow.",
+            "answer": "will sit"
+        },
+        {
+            "sentence": "He ____ (to sit) to work next Monday.",
+            "answer": "will sit"
+        },
+        {
+            "sentence": "I ____ (to sleep) tomorrow.",
+            "answer": "will sleep"
+        },
+        {
+            "sentence": "He ____ (to sleep) to work next Monday.",
+            "answer": "will sleep"
+        },
+        {
+            "sentence": "I ____ (to smoke) tomorrow.",
+            "answer": "will smoke"
+        },
+        {
+            "sentence": "He ____ (to smoke) to work next Monday.",
+            "answer": "will smoke"
+        },
+        {
+            "sentence": "I ____ (to speak) tomorrow.",
+            "answer": "will speak"
+        },
+        {
+            "sentence": "He ____ (to speak) to work next Monday.",
+            "answer": "will speak"
+        },
+        {
+            "sentence": "I ____ (to spell) tomorrow.",
+            "answer": "will spell"
+        },
+        {
+            "sentence": "He ____ (to spell) to work next Monday.",
+            "answer": "will spell"
+        },
+        {
+            "sentence": "I ____ (to spend) tomorrow.",
+            "answer": "will spend"
+        },
+        {
+            "sentence": "He ____ (to spend) to work next Monday.",
+            "answer": "will spend"
+        },
+        {
+            "sentence": "I ____ (to stand) tomorrow.",
+            "answer": "will stand"
+        },
+        {
+            "sentence": "He ____ (to stand) to work next Monday.",
+            "answer": "will stand"
+        },
+        {
+            "sentence": "I ____ (to start) tomorrow.",
+            "answer": "will start"
+        },
+        {
+            "sentence": "He ____ (to start) to work next Monday.",
+            "answer": "will start"
+        },
+        {
+            "sentence": "I ____ (to study) tomorrow.",
+            "answer": "will study"
+        },
+        {
+            "sentence": "He ____ (to study) to work next Monday.",
+            "answer": "will study"
+        },
+        {
+            "sentence": "I ____ (to succeed) tomorrow.",
+            "answer": "will succeed"
+        },
+        {
+            "sentence": "He ____ (to succeed) to work next Monday.",
+            "answer": "will succeed"
+        },
+        {
+            "sentence": "I ____ (to swim) tomorrow.",
+            "answer": "will swim"
+        },
+        {
+            "sentence": "He ____ (to swim) to work next Monday.",
+            "answer": "will swim"
+        },
+        {
+            "sentence": "I ____ (to take) tomorrow.",
+            "answer": "will take"
+        },
+        {
+            "sentence": "He ____ (to take) to work next Monday.",
+            "answer": "will take"
+        },
+        {
+            "sentence": "I ____ (to talk) tomorrow.",
+            "answer": "will talk"
+        },
+        {
+            "sentence": "He ____ (to talk) to work next Monday.",
+            "answer": "will talk"
+        },
+        {
+            "sentence": "I ____ (to teach) tomorrow.",
+            "answer": "will teach"
+        },
+        {
+            "sentence": "He ____ (to teach) to work next Monday.",
+            "answer": "will teach"
+        },
+        {
+            "sentence": "I ____ (to tell) tomorrow.",
+            "answer": "will tell"
+        },
+        {
+            "sentence": "He ____ (to tell) to work next Monday.",
+            "answer": "will tell"
+        },
+        {
+            "sentence": "I ____ (to think) tomorrow.",
+            "answer": "will think"
+        },
+        {
+            "sentence": "He ____ (to think) to work next Monday.",
+            "answer": "will think"
+        },
+        {
+            "sentence": "I ____ (to translate) tomorrow.",
+            "answer": "will translate"
+        },
+        {
+            "sentence": "He ____ (to translate) to work next Monday.",
+            "answer": "will translate"
+        },
+        {
+            "sentence": "I ____ (to travel) tomorrow.",
+            "answer": "will travel"
+        },
+        {
+            "sentence": "He ____ (to travel) to work next Monday.",
+            "answer": "will travel"
+        },
+        {
+            "sentence": "I ____ (to try) tomorrow.",
+            "answer": "will try"
+        },
+        {
+            "sentence": "He ____ (to try) to work next Monday.",
+            "answer": "will try"
+        },
+        {
+            "sentence": "I ____ (to turn) tomorrow.",
+            "answer": "will turn"
+        },
+        {
+            "sentence": "He ____ (to turn) to work next Monday.",
+            "answer": "will turn"
+        },
+        {
+            "sentence": "I ____ (to type) tomorrow.",
+            "answer": "will type"
+        },
+        {
+            "sentence": "He ____ (to type) to work next Monday.",
+            "answer": "will type"
+        },
+        {
+            "sentence": "I ____ (to understand) tomorrow.",
+            "answer": "will understand"
+        },
+        {
+            "sentence": "He ____ (to understand) to work next Monday.",
+            "answer": "will understand"
+        },
+        {
+            "sentence": "I ____ (to use) tomorrow.",
+            "answer": "will use"
+        },
+        {
+            "sentence": "He ____ (to use) to work next Monday.",
+            "answer": "will use"
+        },
+        {
+            "sentence": "I ____ (to wait) tomorrow.",
+            "answer": "will wait"
+        },
+        {
+            "sentence": "He ____ (to wait) to work next Monday.",
+            "answer": "will wait"
+        },
+        {
+            "sentence": "I ____ (to wake) tomorrow.",
+            "answer": "will wake"
+        },
+        {
+            "sentence": "He ____ (to wake) to work next Monday.",
+            "answer": "will wake"
+        },
+        {
+            "sentence": "I ____ (to walk) tomorrow.",
+            "answer": "will walk"
+        },
+        {
+            "sentence": "He ____ (to walk) to work next Monday.",
+            "answer": "will walk"
+        },
+        {
+            "sentence": "I ____ (to want) tomorrow.",
+            "answer": "will want"
+        },
+        {
+            "sentence": "He ____ (to want) to work next Monday.",
+            "answer": "will want"
+        },
+        {
+            "sentence": "I ____ (to watch) tomorrow.",
+            "answer": "will watch"
+        },
+        {
+            "sentence": "He ____ (to watch) to work next Monday.",
+            "answer": "will watch"
+        },
+        {
+            "sentence": "I ____ (to work) tomorrow.",
+            "answer": "will work"
+        },
+        {
+            "sentence": "He ____ (to work) to work next Monday.",
+            "answer": "will work"
+        },
+        {
+            "sentence": "I ____ (to worry) tomorrow.",
+            "answer": "will worry"
+        },
+        {
+            "sentence": "He ____ (to worry) to work next Monday.",
+            "answer": "will worry"
+        },
+        {
+            "sentence": "I ____ (to write) tomorrow.",
+            "answer": "will write"
+        },
+        {
+            "sentence": "He ____ (to write) to work next Monday.",
+            "answer": "will write"
+        },
+        {
+            "sentence": "I ____ (to add) tomorrow.",
+            "answer": "will add"
+        },
+        {
+            "sentence": "He ____ (to add) to work next Monday.",
+            "answer": "will add"
+        },
+        {
+            "sentence": "I ____ (to admire) tomorrow.",
+            "answer": "will admire"
+        },
+        {
+            "sentence": "He ____ (to admire) to work next Monday.",
+            "answer": "will admire"
+        },
+        {
+            "sentence": "I ____ (to admit) tomorrow.",
+            "answer": "will admit"
+        },
+        {
+            "sentence": "He ____ (to admit) to work next Monday.",
+            "answer": "will admit"
+        },
+        {
+            "sentence": "I ____ (to advise) tomorrow.",
+            "answer": "will advise"
+        },
+        {
+            "sentence": "He ____ (to advise) to work next Monday.",
+            "answer": "will advise"
+        },
+        {
+            "sentence": "I ____ (to afford) tomorrow.",
+            "answer": "will afford"
+        },
+        {
+            "sentence": "He ____ (to afford) to work next Monday.",
+            "answer": "will afford"
+        },
+        {
+            "sentence": "I ____ (to agree) tomorrow.",
+            "answer": "will agree"
+        },
+        {
+            "sentence": "He ____ (to agree) to work next Monday.",
+            "answer": "will agree"
+        },
+        {
+            "sentence": "I ____ (to alert) tomorrow.",
+            "answer": "will alert"
+        },
+        {
+            "sentence": "He ____ (to alert) to work next Monday.",
+            "answer": "will alert"
+        },
+        {
+            "sentence": "I ____ (to amuse) tomorrow.",
+            "answer": "will amuse"
+        },
+        {
+            "sentence": "He ____ (to amuse) to work next Monday.",
+            "answer": "will amuse"
+        },
+        {
+            "sentence": "I ____ (to analyse) tomorrow.",
+            "answer": "will analyse"
+        },
+        {
+            "sentence": "He ____ (to analyse) to work next Monday.",
+            "answer": "will analyse"
+        },
+        {
+            "sentence": "I ____ (to announce) tomorrow.",
+            "answer": "will announce"
+        },
+        {
+            "sentence": "He ____ (to announce) to work next Monday.",
+            "answer": "will announce"
+        },
+        {
+            "sentence": "I ____ (to annoy) tomorrow.",
+            "answer": "will annoy"
+        },
+        {
+            "sentence": "He ____ (to annoy) to work next Monday.",
+            "answer": "will annoy"
+        },
+        {
+            "sentence": "I ____ (to answer) tomorrow.",
+            "answer": "will answer"
+        },
+        {
+            "sentence": "He ____ (to answer) to work next Monday.",
+            "answer": "will answer"
+        },
+        {
+            "sentence": "I ____ (to apologize) tomorrow.",
+            "answer": "will apologize"
+        },
+        {
+            "sentence": "He ____ (to apologize) to work next Monday.",
+            "answer": "will apologize"
+        },
+        {
+            "sentence": "I ____ (to appear) tomorrow.",
+            "answer": "will appear"
+        },
+        {
+            "sentence": "He ____ (to appear) to work next Monday.",
+            "answer": "will appear"
+        },
+        {
+            "sentence": "I ____ (to applaud) tomorrow.",
+            "answer": "will applaud"
+        },
+        {
+            "sentence": "He ____ (to applaud) to work next Monday.",
+            "answer": "will applaud"
+        },
+        {
+            "sentence": "I ____ (to appreciate) tomorrow.",
+            "answer": "will appreciate"
+        },
+        {
+            "sentence": "He ____ (to appreciate) to work next Monday.",
+            "answer": "will appreciate"
+        },
+        {
+            "sentence": "I ____ (to approve) tomorrow.",
+            "answer": "will approve"
+        },
+        {
+            "sentence": "He ____ (to approve) to work next Monday.",
+            "answer": "will approve"
+        },
+        {
+            "sentence": "I ____ (to argue) tomorrow.",
+            "answer": "will argue"
+        },
+        {
+            "sentence": "He ____ (to argue) to work next Monday.",
+            "answer": "will argue"
+        },
+        {
+            "sentence": "I ____ (to arrange) tomorrow.",
+            "answer": "will arrange"
+        },
+        {
+            "sentence": "He ____ (to arrange) to work next Monday.",
+            "answer": "will arrange"
+        },
+        {
+            "sentence": "I ____ (to arrest) tomorrow.",
+            "answer": "will arrest"
+        },
+        {
+            "sentence": "He ____ (to arrest) to work next Monday.",
+            "answer": "will arrest"
+        },
+        {
+            "sentence": "I ____ (to arrive) tomorrow.",
+            "answer": "will arrive"
+        },
+        {
+            "sentence": "He ____ (to arrive) to work next Monday.",
+            "answer": "will arrive"
+        },
+        {
+            "sentence": "I ____ (to attach) tomorrow.",
+            "answer": "will attach"
+        },
+        {
+            "sentence": "He ____ (to attach) to work next Monday.",
+            "answer": "will attach"
+        },
+        {
+            "sentence": "I ____ (to attack) tomorrow.",
+            "answer": "will attack"
+        },
+        {
+            "sentence": "He ____ (to attack) to work next Monday.",
+            "answer": "will attack"
+        },
+        {
+            "sentence": "I ____ (to attempt) tomorrow.",
+            "answer": "will attempt"
+        },
+        {
+            "sentence": "He ____ (to attempt) to work next Monday.",
+            "answer": "will attempt"
+        },
+        {
+            "sentence": "I ____ (to attend) tomorrow.",
+            "answer": "will attend"
+        },
+        {
+            "sentence": "He ____ (to attend) to work next Monday.",
+            "answer": "will attend"
+        },
+        {
+            "sentence": "I ____ (to attract) tomorrow.",
+            "answer": "will attract"
+        },
+        {
+            "sentence": "He ____ (to attract) to work next Monday.",
+            "answer": "will attract"
+        },
+        {
+            "sentence": "I ____ (to avoid) tomorrow.",
+            "answer": "will avoid"
+        },
+        {
+            "sentence": "He ____ (to avoid) to work next Monday.",
+            "answer": "will avoid"
+        },
+        {
+            "sentence": "I ____ (to bake) tomorrow.",
+            "answer": "will bake"
+        },
+        {
+            "sentence": "He ____ (to bake) to work next Monday.",
+            "answer": "will bake"
+        },
+        {
+            "sentence": "I ____ (to balance) tomorrow.",
+            "answer": "will balance"
+        },
+        {
+            "sentence": "He ____ (to balance) to work next Monday.",
+            "answer": "will balance"
+        },
+        {
+            "sentence": "I ____ (to ban) tomorrow.",
+            "answer": "will ban"
+        },
+        {
+            "sentence": "He ____ (to ban) to work next Monday.",
+            "answer": "will ban"
+        },
+        {
+            "sentence": "I ____ (to bat) tomorrow.",
+            "answer": "will bat"
+        },
+        {
+            "sentence": "He ____ (to bat) to work next Monday.",
+            "answer": "will bat"
+        },
+        {
+            "sentence": "I ____ (to bathe) tomorrow.",
+            "answer": "will bathe"
+        },
+        {
+            "sentence": "He ____ (to bathe) to work next Monday.",
+            "answer": "will bathe"
+        },
+        {
+            "sentence": "I ____ (to battle) tomorrow.",
+            "answer": "will battle"
+        },
+        {
+            "sentence": "He ____ (to battle) to work next Monday.",
+            "answer": "will battle"
+        },
+        {
+            "sentence": "I ____ (to beam) tomorrow.",
+            "answer": "will beam"
+        },
+        {
+            "sentence": "He ____ (to beam) to work next Monday.",
+            "answer": "will beam"
+        },
+        {
+            "sentence": "I ____ (to beg) tomorrow.",
+            "answer": "will beg"
+        },
+        {
+            "sentence": "He ____ (to beg) to work next Monday.",
+            "answer": "will beg"
+        },
+        {
+            "sentence": "I ____ (to behave) tomorrow.",
+            "answer": "will behave"
+        },
+        {
+            "sentence": "He ____ (to behave) to work next Monday.",
+            "answer": "will behave"
+        },
+        {
+            "sentence": "I ____ (to belong) tomorrow.",
+            "answer": "will belong"
+        },
+        {
+            "sentence": "He ____ (to belong) to work next Monday.",
+            "answer": "will belong"
+        },
+        {
+            "sentence": "I ____ (to bleach) tomorrow.",
+            "answer": "will bleach"
+        },
+        {
+            "sentence": "He ____ (to bleach) to work next Monday.",
+            "answer": "will bleach"
+        },
+        {
+            "sentence": "I ____ (to bless) tomorrow.",
+            "answer": "will bless"
+        },
+        {
+            "sentence": "He ____ (to bless) to work next Monday.",
+            "answer": "will bless"
+        },
+        {
+            "sentence": "I ____ (to blind) tomorrow.",
+            "answer": "will blind"
+        },
+        {
+            "sentence": "He ____ (to blind) to work next Monday.",
+            "answer": "will blind"
+        },
+        {
+            "sentence": "I ____ (to blink) tomorrow.",
+            "answer": "will blink"
+        },
+        {
+            "sentence": "He ____ (to blink) to work next Monday.",
+            "answer": "will blink"
+        },
+        {
+            "sentence": "I ____ (to blot) tomorrow.",
+            "answer": "will blot"
+        },
+        {
+            "sentence": "He ____ (to blot) to work next Monday.",
+            "answer": "will blot"
+        },
+        {
+            "sentence": "I ____ (to blow) tomorrow.",
+            "answer": "will blow"
+        },
+        {
+            "sentence": "He ____ (to blow) to work next Monday.",
+            "answer": "will blow"
+        },
+        {
+            "sentence": "I ____ (to blush) tomorrow.",
+            "answer": "will blush"
+        },
+        {
+            "sentence": "He ____ (to blush) to work next Monday.",
+            "answer": "will blush"
+        },
+        {
+            "sentence": "I ____ (to boast) tomorrow.",
+            "answer": "will boast"
+        },
+        {
+            "sentence": "He ____ (to boast) to work next Monday.",
+            "answer": "will boast"
+        },
+        {
+            "sentence": "I ____ (to boil) tomorrow.",
+            "answer": "will boil"
+        },
+        {
+            "sentence": "He ____ (to boil) to work next Monday.",
+            "answer": "will boil"
+        },
+        {
+            "sentence": "I ____ (to bolt) tomorrow.",
+            "answer": "will bolt"
+        },
+        {
+            "sentence": "He ____ (to bolt) to work next Monday.",
+            "answer": "will bolt"
+        },
+        {
+            "sentence": "I ____ (to bomb) tomorrow.",
+            "answer": "will bomb"
+        },
+        {
+            "sentence": "He ____ (to bomb) to work next Monday.",
+            "answer": "will bomb"
+        },
+        {
+            "sentence": "I ____ (to book) tomorrow.",
+            "answer": "will book"
+        },
+        {
+            "sentence": "He ____ (to book) to work next Monday.",
+            "answer": "will book"
+        },
+        {
+            "sentence": "I ____ (to bore) tomorrow.",
+            "answer": "will bore"
+        },
+        {
+            "sentence": "He ____ (to bore) to work next Monday.",
+            "answer": "will bore"
+        },
+        {
+            "sentence": "I ____ (to borrow) tomorrow.",
+            "answer": "will borrow"
+        },
+        {
+            "sentence": "He ____ (to borrow) to work next Monday.",
+            "answer": "will borrow"
+        },
+        {
+            "sentence": "I ____ (to bounce) tomorrow.",
+            "answer": "will bounce"
+        },
+        {
+            "sentence": "He ____ (to bounce) to work next Monday.",
+            "answer": "will bounce"
+        },
+        {
+            "sentence": "I ____ (to bow) tomorrow.",
+            "answer": "will bow"
+        },
+        {
+            "sentence": "He ____ (to bow) to work next Monday.",
+            "answer": "will bow"
+        },
+        {
+            "sentence": "I ____ (to box) tomorrow.",
+            "answer": "will box"
+        },
+        {
+            "sentence": "He ____ (to box) to work next Monday.",
+            "answer": "will box"
+        },
+        {
+            "sentence": "I ____ (to brake) tomorrow.",
+            "answer": "will brake"
+        },
+        {
+            "sentence": "He ____ (to brake) to work next Monday.",
+            "answer": "will brake"
+        },
+        {
+            "sentence": "I ____ (to branch) tomorrow.",
+            "answer": "will branch"
+        },
+        {
+            "sentence": "He ____ (to branch) to work next Monday.",
+            "answer": "will branch"
+        },
+        {
+            "sentence": "I ____ (to breathe) tomorrow.",
+            "answer": "will breathe"
+        },
+        {
+            "sentence": "He ____ (to breathe) to work next Monday.",
+            "answer": "will breathe"
+        },
+        {
+            "sentence": "I ____ (to bruise) tomorrow.",
+            "answer": "will bruise"
+        },
+        {
+            "sentence": "He ____ (to bruise) to work next Monday.",
+            "answer": "will bruise"
+        },
+        {
+            "sentence": "I ____ (to brush) tomorrow.",
+            "answer": "will brush"
+        },
+        {
+            "sentence": "He ____ (to brush) to work next Monday.",
+            "answer": "will brush"
+        },
+        {
+            "sentence": "I ____ (to bubble) tomorrow.",
+            "answer": "will bubble"
+        },
+        {
+            "sentence": "He ____ (to bubble) to work next Monday.",
+            "answer": "will bubble"
+        },
+        {
+            "sentence": "I ____ (to bump) tomorrow.",
+            "answer": "will bump"
+        },
+        {
+            "sentence": "He ____ (to bump) to work next Monday.",
+            "answer": "will bump"
+        },
+        {
+            "sentence": "I ____ (to burn) tomorrow.",
+            "answer": "will burn"
+        },
+        {
+            "sentence": "He ____ (to burn) to work next Monday.",
+            "answer": "will burn"
+        },
+        {
+            "sentence": "I ____ (to bury) tomorrow.",
+            "answer": "will bury"
+        },
+        {
+            "sentence": "He ____ (to bury) to work next Monday.",
+            "answer": "will bury"
+        },
+        {
+            "sentence": "I ____ (to buzz) tomorrow.",
+            "answer": "will buzz"
+        },
+        {
+            "sentence": "He ____ (to buzz) to work next Monday.",
+            "answer": "will buzz"
+        },
+        {
+            "sentence": "I ____ (to calculate) tomorrow.",
+            "answer": "will calculate"
+        },
+        {
+            "sentence": "He ____ (to calculate) to work next Monday.",
+            "answer": "will calculate"
+        },
+        {
+            "sentence": "I ____ (to call) tomorrow.",
+            "answer": "will call"
+        },
+        {
+            "sentence": "He ____ (to call) to work next Monday.",
+            "answer": "will call"
+        },
+        {
+            "sentence": "I ____ (to camp) tomorrow.",
+            "answer": "will camp"
+        },
+        {
+            "sentence": "He ____ (to camp) to work next Monday.",
+            "answer": "will camp"
+        },
+        {
+            "sentence": "I ____ (to care) tomorrow.",
+            "answer": "will care"
+        },
+        {
+            "sentence": "He ____ (to care) to work next Monday.",
+            "answer": "will care"
+        },
+        {
+            "sentence": "I ____ (to carry) tomorrow.",
+            "answer": "will carry"
+        },
+        {
+            "sentence": "He ____ (to carry) to work next Monday.",
+            "answer": "will carry"
+        },
+        {
+            "sentence": "I ____ (to carve) tomorrow.",
+            "answer": "will carve"
+        },
+        {
+            "sentence": "He ____ (to carve) to work next Monday.",
+            "answer": "will carve"
+        },
+        {
+            "sentence": "I ____ (to cause) tomorrow.",
+            "answer": "will cause"
+        },
+        {
+            "sentence": "He ____ (to cause) to work next Monday.",
+            "answer": "will cause"
+        },
+        {
+            "sentence": "I ____ (to challenge) tomorrow.",
+            "answer": "will challenge"
+        },
+        {
+            "sentence": "He ____ (to challenge) to work next Monday.",
+            "answer": "will challenge"
+        },
+        {
+            "sentence": "I ____ (to change) tomorrow.",
+            "answer": "will change"
+        },
+        {
+            "sentence": "He ____ (to change) to work next Monday.",
+            "answer": "will change"
+        },
+        {
+            "sentence": "I ____ (to charge) tomorrow.",
+            "answer": "will charge"
+        },
+        {
+            "sentence": "He ____ (to charge) to work next Monday.",
+            "answer": "will charge"
+        },
+        {
+            "sentence": "I ____ (to chase) tomorrow.",
+            "answer": "will chase"
+        },
+        {
+            "sentence": "He ____ (to chase) to work next Monday.",
+            "answer": "will chase"
+        },
+        {
+            "sentence": "I ____ (to cheat) tomorrow.",
+            "answer": "will cheat"
+        },
+        {
+            "sentence": "He ____ (to cheat) to work next Monday.",
+            "answer": "will cheat"
+        },
+        {
+            "sentence": "I ____ (to check) tomorrow.",
+            "answer": "will check"
+        },
+        {
+            "sentence": "He ____ (to check) to work next Monday.",
+            "answer": "will check"
+        },
+        {
+            "sentence": "I ____ (to cheer) tomorrow.",
+            "answer": "will cheer"
+        },
+        {
+            "sentence": "He ____ (to cheer) to work next Monday.",
+            "answer": "will cheer"
+        },
+        {
+            "sentence": "I ____ (to chew) tomorrow.",
+            "answer": "will chew"
+        },
+        {
+            "sentence": "He ____ (to chew) to work next Monday.",
+            "answer": "will chew"
+        },
+        {
+            "sentence": "I ____ (to choke) tomorrow.",
+            "answer": "will choke"
+        },
+        {
+            "sentence": "He ____ (to choke) to work next Monday.",
+            "answer": "will choke"
+        },
+        {
+            "sentence": "I ____ (to chop) tomorrow.",
+            "answer": "will chop"
+        },
+        {
+            "sentence": "He ____ (to chop) to work next Monday.",
+            "answer": "will chop"
+        },
+        {
+            "sentence": "I ____ (to claim) tomorrow.",
+            "answer": "will claim"
+        },
+        {
+            "sentence": "He ____ (to claim) to work next Monday.",
+            "answer": "will claim"
+        },
+        {
+            "sentence": "I ____ (to clap) tomorrow.",
+            "answer": "will clap"
+        },
+        {
+            "sentence": "He ____ (to clap) to work next Monday.",
+            "answer": "will clap"
+        },
+        {
+            "sentence": "I ____ (to clean) tomorrow.",
+            "answer": "will clean"
+        },
+        {
+            "sentence": "He ____ (to clean) to work next Monday.",
+            "answer": "will clean"
+        },
+        {
+            "sentence": "I ____ (to clear) tomorrow.",
+            "answer": "will clear"
+        },
+        {
+            "sentence": "He ____ (to clear) to work next Monday.",
+            "answer": "will clear"
+        },
+        {
+            "sentence": "I ____ (to clip) tomorrow.",
+            "answer": "will clip"
+        },
+        {
+            "sentence": "He ____ (to clip) to work next Monday.",
+            "answer": "will clip"
+        },
+        {
+            "sentence": "I ____ (to close) tomorrow.",
+            "answer": "will close"
+        },
+        {
+            "sentence": "He ____ (to close) to work next Monday.",
+            "answer": "will close"
+        },
+        {
+            "sentence": "I ____ (to coach) tomorrow.",
+            "answer": "will coach"
+        },
+        {
+            "sentence": "He ____ (to coach) to work next Monday.",
+            "answer": "will coach"
+        },
+        {
+            "sentence": "I ____ (to coil) tomorrow.",
+            "answer": "will coil"
+        },
+        {
+            "sentence": "He ____ (to coil) to work next Monday.",
+            "answer": "will coil"
+        },
+        {
+            "sentence": "I ____ (to collect) tomorrow.",
+            "answer": "will collect"
+        },
+        {
+            "sentence": "He ____ (to collect) to work next Monday.",
+            "answer": "will collect"
+        },
+        {
+            "sentence": "I ____ (to colour) tomorrow.",
+            "answer": "will colour"
+        },
+        {
+            "sentence": "He ____ (to colour) to work next Monday.",
+            "answer": "will colour"
+        },
+        {
+            "sentence": "I ____ (to comb) tomorrow.",
+            "answer": "will comb"
+        },
+        {
+            "sentence": "He ____ (to comb) to work next Monday.",
+            "answer": "will comb"
+        },
+        {
+            "sentence": "I ____ (to command) tomorrow.",
+            "answer": "will command"
+        },
+        {
+            "sentence": "He ____ (to command) to work next Monday.",
+            "answer": "will command"
+        },
+        {
+            "sentence": "I ____ (to communicate) tomorrow.",
+            "answer": "will communicate"
+        },
+        {
+            "sentence": "He ____ (to communicate) to work next Monday.",
+            "answer": "will communicate"
+        },
+        {
+            "sentence": "I ____ (to compare) tomorrow.",
+            "answer": "will compare"
+        },
+        {
+            "sentence": "He ____ (to compare) to work next Monday.",
+            "answer": "will compare"
+        },
+        {
+            "sentence": "I ____ (to compete) tomorrow.",
+            "answer": "will compete"
+        },
+        {
+            "sentence": "He ____ (to compete) to work next Monday.",
+            "answer": "will compete"
+        },
+        {
+            "sentence": "I ____ (to complain) tomorrow.",
+            "answer": "will complain"
+        },
+        {
+            "sentence": "He ____ (to complain) to work next Monday.",
+            "answer": "will complain"
+        }
+    ]
+}
