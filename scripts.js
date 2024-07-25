@@ -24,23 +24,21 @@ function generateContent(data) {
         const tabContent = document.getElementById(tense);
         tabContent.innerHTML = `<h2>${capitalizeFirstLetter(tense)} Tense</h2>`;
 
-        const examples = document.createElement('ul');
         data[tense].forEach((verb, index) => {
-            const example = document.createElement('li');
+            const example = document.createElement('p');
             example.textContent = verb.sentence.replace('____', verb.answer);
-            examples.appendChild(example);
+            tabContent.appendChild(example);
 
             const form = document.createElement('form');
             form.innerHTML = `
-                <label for="verb${tense}${index + 1}">${verb.sentence}</label>
-                <input type="text" id="verb${tense}${index + 1}" name="verb${tense}${index + 1}">
-                <button type="button" onclick="checkAnswer('verb${tense}${index + 1}', '${verb.answer}')">Check</button>
+                <label for="verb${tense}${index}">${verb.sentence}</label>
+                <input type="text" id="verb${tense}${index}" name="verb${tense}${index}">
+                <button type="button" onclick="checkAnswer('verb${tense}${index}', '${verb.answer}', 'feedback${tense}${index}')">Check</button>
             `;
 
             const feedback = document.createElement('p');
-            feedback.id = `feedback${tense}${index + 1}`;
+            feedback.id = `feedback${tense}${index}`;
 
-            tabContent.appendChild(example);
             tabContent.appendChild(form);
             tabContent.appendChild(feedback);
         });
@@ -51,9 +49,9 @@ function capitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
-function checkAnswer(inputId, correctAnswer) {
+function checkAnswer(inputId, correctAnswer, feedbackId) {
     const userAnswer = document.getElementById(inputId).value;
-    const feedback = document.getElementById('feedback' + inputId.charAt(inputId.length - 1));
+    const feedback = document.getElementById(feedbackId);
     if (userAnswer.toLowerCase() === correctAnswer.toLowerCase()) {
         feedback.textContent = 'Correct!';
         feedback.style.color = 'green';
