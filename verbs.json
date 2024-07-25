@@ -1,7 +1,7 @@
 {
     "present": [
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to accept) every day.",
             "answer": "accept"
         },
         {
@@ -9,7 +9,7 @@
             "answer": "accepts"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to allow) every day.",
             "answer": "allow"
         },
         {
@@ -17,7 +17,7 @@
             "answer": "allows"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to ask) every day.",
             "answer": "ask"
         },
         {
@@ -25,7 +25,7 @@
             "answer": "asks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to believe) every day.",
             "answer": "believe"
         },
         {
@@ -33,7 +33,7 @@
             "answer": "believes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to borrow) every day.",
             "answer": "borrow"
         },
         {
@@ -41,7 +41,7 @@
             "answer": "borrows"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to break) every day.",
             "answer": "break"
         },
         {
@@ -49,7 +49,7 @@
             "answer": "breaks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bring) every day.",
             "answer": "bring"
         },
         {
@@ -57,7 +57,7 @@
             "answer": "brings"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to buy) every day.",
             "answer": "buy"
         },
         {
@@ -65,7 +65,7 @@
             "answer": "buies"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to cancel) every day.",
             "answer": "cancel"
         },
         {
@@ -73,7 +73,7 @@
             "answer": "cancels"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to change) every day.",
             "answer": "change"
         },
         {
@@ -81,7 +81,7 @@
             "answer": "changes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to clean) every day.",
             "answer": "clean"
         },
         {
@@ -89,7 +89,7 @@
             "answer": "cleans"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to comb) every day.",
             "answer": "comb"
         },
         {
@@ -97,7 +97,7 @@
             "answer": "combs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to complain) every day.",
             "answer": "complain"
         },
         {
@@ -105,7 +105,7 @@
             "answer": "complains"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to cook) every day.",
             "answer": "cook"
         },
         {
@@ -113,7 +113,7 @@
             "answer": "cooks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to cough) every day.",
             "answer": "cough"
         },
         {
@@ -121,7 +121,7 @@
             "answer": "coughs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to count) every day.",
             "answer": "count"
         },
         {
@@ -129,7 +129,7 @@
             "answer": "counts"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to cry) every day.",
             "answer": "cry"
         },
         {
@@ -137,7 +137,7 @@
             "answer": "cries"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to dance) every day.",
             "answer": "dance"
         },
         {
@@ -145,7 +145,7 @@
             "answer": "dances"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to draw) every day.",
             "answer": "draw"
         },
         {
@@ -153,7 +153,7 @@
             "answer": "draws"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to drink) every day.",
             "answer": "drink"
         },
         {
@@ -161,7 +161,7 @@
             "answer": "drinks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to eat) every day.",
             "answer": "eat"
         },
         {
@@ -169,7 +169,7 @@
             "answer": "eats"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to explain) every day.",
             "answer": "explain"
         },
         {
@@ -177,7 +177,7 @@
             "answer": "explains"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to fall) every day.",
             "answer": "fall"
         },
         {
@@ -185,7 +185,7 @@
             "answer": "falls"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to fill) every day.",
             "answer": "fill"
         },
         {
@@ -193,7 +193,7 @@
             "answer": "fills"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to find) every day.",
             "answer": "find"
         },
         {
@@ -201,7 +201,7 @@
             "answer": "finds"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to finish) every day.",
             "answer": "finish"
         },
         {
@@ -209,7 +209,7 @@
             "answer": "finishs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to fit) every day.",
             "answer": "fit"
         },
         {
@@ -217,7 +217,7 @@
             "answer": "fits"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to fix) every day.",
             "answer": "fix"
         },
         {
@@ -225,7 +225,7 @@
             "answer": "fixs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to fly) every day.",
             "answer": "fly"
         },
         {
@@ -233,7 +233,7 @@
             "answer": "flies"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to forget) every day.",
             "answer": "forget"
         },
         {
@@ -241,7 +241,7 @@
             "answer": "forgets"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to give) every day.",
             "answer": "give"
         },
         {
@@ -249,7 +249,7 @@
             "answer": "gives"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to go) every day.",
             "answer": "go"
         },
         {
@@ -257,7 +257,7 @@
             "answer": "goes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to have) every day.",
             "answer": "have"
         },
         {
@@ -265,7 +265,7 @@
             "answer": "haves"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to hear) every day.",
             "answer": "hear"
         },
         {
@@ -273,7 +273,7 @@
             "answer": "hears"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to help) every day.",
             "answer": "help"
         },
         {
@@ -281,7 +281,7 @@
             "answer": "helps"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to hope) every day.",
             "answer": "hope"
         },
         {
@@ -289,7 +289,7 @@
             "answer": "hopes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to hurt) every day.",
             "answer": "hurt"
         },
         {
@@ -297,7 +297,7 @@
             "answer": "hurts"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to jump) every day.",
             "answer": "jump"
         },
         {
@@ -305,7 +305,7 @@
             "answer": "jumps"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to know) every day.",
             "answer": "know"
         },
         {
@@ -313,7 +313,7 @@
             "answer": "knows"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to learn) every day.",
             "answer": "learn"
         },
         {
@@ -321,7 +321,7 @@
             "answer": "learns"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to leave) every day.",
             "answer": "leave"
         },
         {
@@ -329,7 +329,7 @@
             "answer": "leaves"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to listen) every day.",
             "answer": "listen"
         },
         {
@@ -337,7 +337,7 @@
             "answer": "listens"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to live) every day.",
             "answer": "live"
         },
         {
@@ -345,7 +345,7 @@
             "answer": "lives"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to look) every day.",
             "answer": "look"
         },
         {
@@ -353,7 +353,7 @@
             "answer": "looks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to lose) every day.",
             "answer": "lose"
         },
         {
@@ -361,7 +361,7 @@
             "answer": "loses"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to make) every day.",
             "answer": "make"
         },
         {
@@ -369,7 +369,7 @@
             "answer": "makes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to need) every day.",
             "answer": "need"
         },
         {
@@ -377,7 +377,7 @@
             "answer": "needs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to open) every day.",
             "answer": "open"
         },
         {
@@ -385,7 +385,7 @@
             "answer": "opens"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to close) every day.",
             "answer": "close"
         },
         {
@@ -393,7 +393,7 @@
             "answer": "closes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to organize) every day.",
             "answer": "organize"
         },
         {
@@ -401,7 +401,7 @@
             "answer": "organizes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to pay) every day.",
             "answer": "pay"
         },
         {
@@ -409,7 +409,7 @@
             "answer": "paies"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to play) every day.",
             "answer": "play"
         },
         {
@@ -417,7 +417,7 @@
             "answer": "plays"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to put) every day.",
             "answer": "put"
         },
         {
@@ -425,7 +425,7 @@
             "answer": "puts"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to read) every day.",
             "answer": "read"
         },
         {
@@ -433,7 +433,7 @@
             "answer": "reads"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to reply) every day.",
             "answer": "reply"
         },
         {
@@ -441,7 +441,7 @@
             "answer": "replies"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to run) every day.",
             "answer": "run"
         },
         {
@@ -449,7 +449,7 @@
             "answer": "runs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to say) every day.",
             "answer": "say"
         },
         {
@@ -457,7 +457,7 @@
             "answer": "saies"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to see) every day.",
             "answer": "see"
         },
         {
@@ -465,7 +465,7 @@
             "answer": "sees"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to sell) every day.",
             "answer": "sell"
         },
         {
@@ -473,7 +473,7 @@
             "answer": "sells"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to send) every day.",
             "answer": "send"
         },
         {
@@ -481,7 +481,7 @@
             "answer": "sends"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to sign) every day.",
             "answer": "sign"
         },
         {
@@ -489,7 +489,7 @@
             "answer": "signs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to sing) every day.",
             "answer": "sing"
         },
         {
@@ -497,7 +497,7 @@
             "answer": "sings"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to sit) every day.",
             "answer": "sit"
         },
         {
@@ -505,7 +505,7 @@
             "answer": "sits"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to sleep) every day.",
             "answer": "sleep"
         },
         {
@@ -513,7 +513,7 @@
             "answer": "sleeps"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to smoke) every day.",
             "answer": "smoke"
         },
         {
@@ -521,7 +521,7 @@
             "answer": "smokes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to speak) every day.",
             "answer": "speak"
         },
         {
@@ -529,7 +529,7 @@
             "answer": "speaks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to spell) every day.",
             "answer": "spell"
         },
         {
@@ -537,7 +537,7 @@
             "answer": "spells"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to spend) every day.",
             "answer": "spend"
         },
         {
@@ -545,7 +545,7 @@
             "answer": "spends"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to stand) every day.",
             "answer": "stand"
         },
         {
@@ -553,7 +553,7 @@
             "answer": "stands"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to start) every day.",
             "answer": "start"
         },
         {
@@ -561,7 +561,7 @@
             "answer": "starts"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to study) every day.",
             "answer": "study"
         },
         {
@@ -569,7 +569,7 @@
             "answer": "studies"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to succeed) every day.",
             "answer": "succeed"
         },
         {
@@ -577,7 +577,7 @@
             "answer": "succeeds"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to swim) every day.",
             "answer": "swim"
         },
         {
@@ -585,7 +585,7 @@
             "answer": "swims"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to take) every day.",
             "answer": "take"
         },
         {
@@ -593,7 +593,7 @@
             "answer": "takes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to talk) every day.",
             "answer": "talk"
         },
         {
@@ -601,7 +601,7 @@
             "answer": "talks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to teach) every day.",
             "answer": "teach"
         },
         {
@@ -609,7 +609,7 @@
             "answer": "teachs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to tell) every day.",
             "answer": "tell"
         },
         {
@@ -617,7 +617,7 @@
             "answer": "tells"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to think) every day.",
             "answer": "think"
         },
         {
@@ -625,7 +625,7 @@
             "answer": "thinks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to translate) every day.",
             "answer": "translate"
         },
         {
@@ -633,7 +633,7 @@
             "answer": "translates"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to travel) every day.",
             "answer": "travel"
         },
         {
@@ -641,7 +641,7 @@
             "answer": "travels"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to try) every day.",
             "answer": "try"
         },
         {
@@ -649,7 +649,7 @@
             "answer": "tries"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to turn) every day.",
             "answer": "turn"
         },
         {
@@ -657,7 +657,7 @@
             "answer": "turns"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to type) every day.",
             "answer": "type"
         },
         {
@@ -665,7 +665,7 @@
             "answer": "types"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to understand) every day.",
             "answer": "understand"
         },
         {
@@ -673,7 +673,7 @@
             "answer": "understands"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to use) every day.",
             "answer": "use"
         },
         {
@@ -681,7 +681,7 @@
             "answer": "uses"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to wait) every day.",
             "answer": "wait"
         },
         {
@@ -689,7 +689,7 @@
             "answer": "waits"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to wake) every day.",
             "answer": "wake"
         },
         {
@@ -697,7 +697,7 @@
             "answer": "wakes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to walk) every day.",
             "answer": "walk"
         },
         {
@@ -705,7 +705,7 @@
             "answer": "walks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to want) every day.",
             "answer": "want"
         },
         {
@@ -713,7 +713,7 @@
             "answer": "wants"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to watch) every day.",
             "answer": "watch"
         },
         {
@@ -721,7 +721,7 @@
             "answer": "watchs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to work) every day.",
             "answer": "work"
         },
         {
@@ -729,7 +729,7 @@
             "answer": "works"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to worry) every day.",
             "answer": "worry"
         },
         {
@@ -737,7 +737,7 @@
             "answer": "worries"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to write) every day.",
             "answer": "write"
         },
         {
@@ -745,7 +745,7 @@
             "answer": "writes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to add) every day.",
             "answer": "add"
         },
         {
@@ -753,7 +753,7 @@
             "answer": "adds"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to admire) every day.",
             "answer": "admire"
         },
         {
@@ -761,7 +761,7 @@
             "answer": "admires"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to admit) every day.",
             "answer": "admit"
         },
         {
@@ -769,7 +769,7 @@
             "answer": "admits"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to advise) every day.",
             "answer": "advise"
         },
         {
@@ -777,7 +777,7 @@
             "answer": "advises"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to afford) every day.",
             "answer": "afford"
         },
         {
@@ -785,7 +785,7 @@
             "answer": "affords"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to agree) every day.",
             "answer": "agree"
         },
         {
@@ -793,7 +793,7 @@
             "answer": "agrees"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to alert) every day.",
             "answer": "alert"
         },
         {
@@ -801,7 +801,7 @@
             "answer": "alerts"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to amuse) every day.",
             "answer": "amuse"
         },
         {
@@ -809,7 +809,7 @@
             "answer": "amuses"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to analyse) every day.",
             "answer": "analyse"
         },
         {
@@ -817,7 +817,7 @@
             "answer": "analyses"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to announce) every day.",
             "answer": "announce"
         },
         {
@@ -825,7 +825,7 @@
             "answer": "announces"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to annoy) every day.",
             "answer": "annoy"
         },
         {
@@ -833,7 +833,7 @@
             "answer": "annoies"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to answer) every day.",
             "answer": "answer"
         },
         {
@@ -841,7 +841,7 @@
             "answer": "answers"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to apologize) every day.",
             "answer": "apologize"
         },
         {
@@ -849,7 +849,7 @@
             "answer": "apologizes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to appear) every day.",
             "answer": "appear"
         },
         {
@@ -857,7 +857,7 @@
             "answer": "appears"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to applaud) every day.",
             "answer": "applaud"
         },
         {
@@ -865,7 +865,7 @@
             "answer": "applauds"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to appreciate) every day.",
             "answer": "appreciate"
         },
         {
@@ -873,7 +873,7 @@
             "answer": "appreciates"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to approve) every day.",
             "answer": "approve"
         },
         {
@@ -881,7 +881,7 @@
             "answer": "approves"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to argue) every day.",
             "answer": "argue"
         },
         {
@@ -889,7 +889,7 @@
             "answer": "argues"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to arrange) every day.",
             "answer": "arrange"
         },
         {
@@ -897,7 +897,7 @@
             "answer": "arranges"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to arrest) every day.",
             "answer": "arrest"
         },
         {
@@ -905,7 +905,7 @@
             "answer": "arrests"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to arrive) every day.",
             "answer": "arrive"
         },
         {
@@ -913,7 +913,7 @@
             "answer": "arrives"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to attach) every day.",
             "answer": "attach"
         },
         {
@@ -921,7 +921,7 @@
             "answer": "attachs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to attack) every day.",
             "answer": "attack"
         },
         {
@@ -929,7 +929,7 @@
             "answer": "attacks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to attempt) every day.",
             "answer": "attempt"
         },
         {
@@ -937,7 +937,7 @@
             "answer": "attempts"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to attend) every day.",
             "answer": "attend"
         },
         {
@@ -945,7 +945,7 @@
             "answer": "attends"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to attract) every day.",
             "answer": "attract"
         },
         {
@@ -953,7 +953,7 @@
             "answer": "attracts"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to avoid) every day.",
             "answer": "avoid"
         },
         {
@@ -961,7 +961,7 @@
             "answer": "avoids"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bake) every day.",
             "answer": "bake"
         },
         {
@@ -969,7 +969,7 @@
             "answer": "bakes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to balance) every day.",
             "answer": "balance"
         },
         {
@@ -977,7 +977,7 @@
             "answer": "balances"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to ban) every day.",
             "answer": "ban"
         },
         {
@@ -985,7 +985,7 @@
             "answer": "bans"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bat) every day.",
             "answer": "bat"
         },
         {
@@ -993,7 +993,7 @@
             "answer": "bats"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bathe) every day.",
             "answer": "bathe"
         },
         {
@@ -1001,7 +1001,7 @@
             "answer": "bathes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to battle) every day.",
             "answer": "battle"
         },
         {
@@ -1009,7 +1009,7 @@
             "answer": "battles"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to beam) every day.",
             "answer": "beam"
         },
         {
@@ -1017,7 +1017,7 @@
             "answer": "beams"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to beg) every day.",
             "answer": "beg"
         },
         {
@@ -1025,7 +1025,7 @@
             "answer": "begs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to behave) every day.",
             "answer": "behave"
         },
         {
@@ -1033,7 +1033,7 @@
             "answer": "behaves"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to belong) every day.",
             "answer": "belong"
         },
         {
@@ -1041,7 +1041,7 @@
             "answer": "belongs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bleach) every day.",
             "answer": "bleach"
         },
         {
@@ -1049,7 +1049,7 @@
             "answer": "bleachs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bless) every day.",
             "answer": "bless"
         },
         {
@@ -1057,7 +1057,7 @@
             "answer": "blesss"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to blind) every day.",
             "answer": "blind"
         },
         {
@@ -1065,7 +1065,7 @@
             "answer": "blinds"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to blink) every day.",
             "answer": "blink"
         },
         {
@@ -1073,7 +1073,7 @@
             "answer": "blinks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to blot) every day.",
             "answer": "blot"
         },
         {
@@ -1081,7 +1081,7 @@
             "answer": "blots"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to blow) every day.",
             "answer": "blow"
         },
         {
@@ -1089,7 +1089,7 @@
             "answer": "blows"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to blush) every day.",
             "answer": "blush"
         },
         {
@@ -1097,7 +1097,7 @@
             "answer": "blushs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to boast) every day.",
             "answer": "boast"
         },
         {
@@ -1105,7 +1105,7 @@
             "answer": "boasts"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to boil) every day.",
             "answer": "boil"
         },
         {
@@ -1113,7 +1113,7 @@
             "answer": "boils"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bolt) every day.",
             "answer": "bolt"
         },
         {
@@ -1121,7 +1121,7 @@
             "answer": "bolts"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bomb) every day.",
             "answer": "bomb"
         },
         {
@@ -1129,7 +1129,7 @@
             "answer": "bombs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to book) every day.",
             "answer": "book"
         },
         {
@@ -1137,7 +1137,7 @@
             "answer": "books"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bore) every day.",
             "answer": "bore"
         },
         {
@@ -1145,7 +1145,7 @@
             "answer": "bores"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to borrow) every day.",
             "answer": "borrow"
         },
         {
@@ -1153,7 +1153,7 @@
             "answer": "borrows"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bounce) every day.",
             "answer": "bounce"
         },
         {
@@ -1161,7 +1161,7 @@
             "answer": "bounces"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bow) every day.",
             "answer": "bow"
         },
         {
@@ -1169,7 +1169,7 @@
             "answer": "bows"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to box) every day.",
             "answer": "box"
         },
         {
@@ -1177,7 +1177,7 @@
             "answer": "boxs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to brake) every day.",
             "answer": "brake"
         },
         {
@@ -1185,7 +1185,7 @@
             "answer": "brakes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to branch) every day.",
             "answer": "branch"
         },
         {
@@ -1193,7 +1193,7 @@
             "answer": "branchs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to breathe) every day.",
             "answer": "breathe"
         },
         {
@@ -1201,7 +1201,7 @@
             "answer": "breathes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bruise) every day.",
             "answer": "bruise"
         },
         {
@@ -1209,7 +1209,7 @@
             "answer": "bruises"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to brush) every day.",
             "answer": "brush"
         },
         {
@@ -1217,7 +1217,7 @@
             "answer": "brushs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bubble) every day.",
             "answer": "bubble"
         },
         {
@@ -1225,7 +1225,7 @@
             "answer": "bubbles"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bump) every day.",
             "answer": "bump"
         },
         {
@@ -1233,7 +1233,7 @@
             "answer": "bumps"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to burn) every day.",
             "answer": "burn"
         },
         {
@@ -1241,7 +1241,7 @@
             "answer": "burns"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to bury) every day.",
             "answer": "bury"
         },
         {
@@ -1249,7 +1249,7 @@
             "answer": "buries"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to buzz) every day.",
             "answer": "buzz"
         },
         {
@@ -1257,7 +1257,7 @@
             "answer": "buzzs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to calculate) every day.",
             "answer": "calculate"
         },
         {
@@ -1265,7 +1265,7 @@
             "answer": "calculates"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to call) every day.",
             "answer": "call"
         },
         {
@@ -1273,7 +1273,7 @@
             "answer": "calls"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to camp) every day.",
             "answer": "camp"
         },
         {
@@ -1281,7 +1281,7 @@
             "answer": "camps"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to care) every day.",
             "answer": "care"
         },
         {
@@ -1289,7 +1289,7 @@
             "answer": "cares"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to carry) every day.",
             "answer": "carry"
         },
         {
@@ -1297,7 +1297,7 @@
             "answer": "carries"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to carve) every day.",
             "answer": "carve"
         },
         {
@@ -1305,7 +1305,7 @@
             "answer": "carves"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to cause) every day.",
             "answer": "cause"
         },
         {
@@ -1313,7 +1313,7 @@
             "answer": "causes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to challenge) every day.",
             "answer": "challenge"
         },
         {
@@ -1321,7 +1321,7 @@
             "answer": "challenges"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to change) every day.",
             "answer": "change"
         },
         {
@@ -1329,7 +1329,7 @@
             "answer": "changes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to charge) every day.",
             "answer": "charge"
         },
         {
@@ -1337,7 +1337,7 @@
             "answer": "charges"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to chase) every day.",
             "answer": "chase"
         },
         {
@@ -1345,7 +1345,7 @@
             "answer": "chases"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to cheat) every day.",
             "answer": "cheat"
         },
         {
@@ -1353,7 +1353,7 @@
             "answer": "cheats"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to check) every day.",
             "answer": "check"
         },
         {
@@ -1361,7 +1361,7 @@
             "answer": "checks"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to cheer) every day.",
             "answer": "cheer"
         },
         {
@@ -1369,7 +1369,7 @@
             "answer": "cheers"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to chew) every day.",
             "answer": "chew"
         },
         {
@@ -1377,7 +1377,7 @@
             "answer": "chews"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to choke) every day.",
             "answer": "choke"
         },
         {
@@ -1385,7 +1385,7 @@
             "answer": "chokes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to chop) every day.",
             "answer": "chop"
         },
         {
@@ -1393,7 +1393,7 @@
             "answer": "chops"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to claim) every day.",
             "answer": "claim"
         },
         {
@@ -1401,7 +1401,7 @@
             "answer": "claims"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to clap) every day.",
             "answer": "clap"
         },
         {
@@ -1409,7 +1409,7 @@
             "answer": "claps"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to clean) every day.",
             "answer": "clean"
         },
         {
@@ -1417,7 +1417,7 @@
             "answer": "cleans"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to clear) every day.",
             "answer": "clear"
         },
         {
@@ -1425,7 +1425,7 @@
             "answer": "clears"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to clip) every day.",
             "answer": "clip"
         },
         {
@@ -1433,7 +1433,7 @@
             "answer": "clips"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to close) every day.",
             "answer": "close"
         },
         {
@@ -1441,7 +1441,7 @@
             "answer": "closes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to coach) every day.",
             "answer": "coach"
         },
         {
@@ -1449,7 +1449,7 @@
             "answer": "coachs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to coil) every day.",
             "answer": "coil"
         },
         {
@@ -1457,7 +1457,7 @@
             "answer": "coils"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to collect) every day.",
             "answer": "collect"
         },
         {
@@ -1465,7 +1465,7 @@
             "answer": "collects"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to colour) every day.",
             "answer": "colour"
         },
         {
@@ -1473,7 +1473,7 @@
             "answer": "colours"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to comb) every day.",
             "answer": "comb"
         },
         {
@@ -1481,7 +1481,7 @@
             "answer": "combs"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to command) every day.",
             "answer": "command"
         },
         {
@@ -1489,7 +1489,7 @@
             "answer": "commands"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to communicate) every day.",
             "answer": "communicate"
         },
         {
@@ -1497,7 +1497,7 @@
             "answer": "communicates"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to compare) every day.",
             "answer": "compare"
         },
         {
@@ -1505,7 +1505,7 @@
             "answer": "compares"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to compete) every day.",
             "answer": "compete"
         },
         {
@@ -1513,7 +1513,7 @@
             "answer": "competes"
         },
         {
-            "sentence": "I ____ (to ____) every day.",
+            "sentence": "I ____ (to complain) every day.",
             "answer": "complain"
         },
         {
